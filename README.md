@@ -60,8 +60,7 @@
   <img src="figures/main.png" alt="AI for Productivity overview" width="95%">
 </p>
 
-> **Introduction text placeholder**  
-> placeholder
+This figure presents a comprehensive **4-stage evolutionary framework** for Agentic AI adoption across industries, mapping the progression from **human-supervised conversational assistants** to **fully autonomous self-governing production systems**.
 
 ---
 
@@ -73,7 +72,7 @@
   <img src="figures/stages.png" alt="Stages of AI for Productivity" width="95%">
 </p>
 
-A four-stage framework for AI-driven productivity evolution:
+A four-stage framework for **AI for Productivity** evolution:
 - **Stage 1: AI as Conversational Assistant**: Passive, single-turn informational tool, limited to preparatory assistance, fully dependent on human execution.
 - **Stage 2: AI as Reactive Operator**: Automates narrow, repetitive tasks, substituting manual labor but requiring constant human oversight and error correction.
 - **Stage 3: AI as Adaptive Coordinator**: Manages complex workflows, coordinates agents, and scales team-level capability, but relies on human-defined goals and requirements.
