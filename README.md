@@ -89,7 +89,7 @@ A four-stage framework for AI-driven productivity evolution:
   <img src="figures/nascent.png" alt="Nascent-diffusion industries" width="95%">
 </p>
 
-**Nascent-diffusion industries** represent the early stage of AI adoption where Agentic AI primarily serves as a **conversational assistant** and **reactive operator** under human supervision.
+**Nascent-diffusion industries** represent the early stage of AI adoption, where Agentic AI primarily serves as a **conversational assistant** and **reactive operator** under human supervision.
 
 In this phase, AI penetration remains limited, with applications focused on efficiency-driven, task-specific assistance rather than end-to-end autonomous operation. The figure outlines current AI use cases and core limitations across four representative sectors:
 - 🏭 **Manufacturing**: Defect detection, engineering & design assistance, operational decision support
@@ -149,8 +149,13 @@ In this phase, AI penetration remains limited, with applications focused on effi
   <img src="figures/growing.png" alt="Growing-diffusion industries" width="95%">
 </p>
 
-> **Growing-diffusion introduction placeholder**  
-> placeholder
+**Growing industries** mark the mid-stage of AI adoption, where Agentic AI evolves from a **reactive assistant** to an **adaptive coordinator** with embedded execution capabilities, operating within clear accountability boundaries.
+
+In this phase, AI achieves deeper penetration, delivering dual-mechanism gains: enhanced operational efficiency and expanded business scope, while still requiring human oversight for critical decisions. The figure outlines the AI progression path, efficiency gains, and core challenges across four representative sectors:
+- 🛍️ **Trade**: Document processing → compliance assistance → agentic workflow → business operation simulation
+- 📰 **Media**: Structured generation → tool-using verification → multi-agent content production → towards multimedia integration
+- 🎓 **Education*: Generic tutoring → pedagogical agents → multi-agent class simulation → evolving learning systems
+- ⚖️ **Law**: General legal assistance → domain-specific case analysis → multi-step argumentation agent → multi-agent legal systems
 
 <a id="trade"></a>
 
