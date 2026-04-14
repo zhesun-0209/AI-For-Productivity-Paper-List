@@ -23,8 +23,8 @@
 ---
 
 ## 📢 News
-- [2026/04] Survey paper completed and paper list released.
-- [2026/04] GitHub Pages deployed for better visualization.
+- [2026/04/] 📃 We created this repo to share updates and related literature!
+- [2026/04/] 🎉 Our survey is released! See # for the paper!
 
 ---
 
