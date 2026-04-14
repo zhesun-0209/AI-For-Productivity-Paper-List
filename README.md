@@ -66,10 +66,10 @@
 ## 🏠 Real Estate
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [Utilizing Large Language Models for Information Extraction from Real Estate Transactions](#) | LLM | 2024 | TBD |
-| [Real Estate Attribute Value Extraction Using Large Language Models](#) | LLM | 2024 | TBD |
-| [AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting](#) | LLM + RAG | 2024 | TBD |
-| [On the Performance of Large Language Models for Real Estate Appraisal](#) | LLM | 2024 | TBD |
+| [Utilizing Large Language Models for Information Extraction from Real Estate Transactions](#) | TBD | 2024 | TBD |
+| [Real Estate Attribute Value Extraction Using Large Language Models](#) | TBD | 2024 | TBD |
+| [AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting](#) | TBD | 2024 | TBD |
+| [On the Performance of Large Language Models for Real Estate Appraisal](#) | TBD | 2024 | TBD |
 
 <a id="government-and-public-administration"></a>
 
