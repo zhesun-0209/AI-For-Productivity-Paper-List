@@ -3,127 +3,175 @@
 [![Last Commit](https://img.shields.io/github/last-commit/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/commits/main)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen?style=flat-square)](https://zhesun-0209.github.io/AI-For-Productivity-Paper-List/)
 
-A curated collection of research papers on **AI for Productivity**, organized by industry diffusion stages and domain-specific applications.
+A curated collection of research papers on **AI for Productivity**, organized by **industry diffusion stages** and **domain-specific applications**.
 
 ---
 
 ## 📢 News
-- [2026/04] Survey paper completed & paper list released.
+- [2026/04] Survey paper completed and paper list released.
 - [2026/04] GitHub Pages deployed for better visualization.
 
 ---
 
 ## Table of Contents
-- [Overview](sslocal://flow/file_open?url=%23overview&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [Nascent-diffusion Industries](sslocal://flow/file_open?url=%23nascent-diffusion-industries&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [Agriculture](sslocal://flow/file_open?url=%23agriculture&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [Real Estate](sslocal://flow/file_open?url=%23real-estate&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [Government](sslocal://flow/file_open?url=%23government&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [Growing-diffusion Industries](sslocal://flow/file_open?url=%23growing-diffusion-industries&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [Law](sslocal://flow/file_open?url=%23law&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [Media](sslocal://flow/file_open?url=%23media&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [Widespread-diffusion Industries](sslocal://flow/file_open?url=%23widespread-diffusion-industries&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [Information Technology](sslocal://flow/file_open?url=%23information-technology&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [Citation](sslocal://flow/file_open?url=%23citation&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [Contribution](sslocal://flow/file_open?url=%23contribution&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [Overview](#overview)
+- [Nascent-diffusion Industries](#nascent-diffusion-industries)
+  - [Manufacturing](#manufacturing)
+  - [Agriculture](#agriculture)
+  - [Real Estate](#real-estate)
+  - [Government and Public Administration](#government-and-public-administration)
+- [Growing-diffusion Industries](#growing-diffusion-industries)
+  - [Trade](#trade)
+  - [Media](#media)
+  - [Education](#education)
+  - [Law](#law)
+- [Widespread-diffusion Industries](#widespread-diffusion-industries)
+  - [Information Technology](#information-technology)
+  - [Finance](#finance)
+  - [Medical](#medical)
+- [Citation](#citation)
+- [Contribution](#contribution)
 
 ---
 
 ## Overview
-This repository summarizes recent advances in AI-driven productivity enhancement across various industries.
-Papers are categorized by diffusion stages: **Nascent, Growing, Widespread**, to help researchers quickly grasp the development status and trends.
+This repository summarizes recent advances in **AI-driven productivity enhancement** across different industries.  
+To better reflect the real-world adoption trajectory of AI systems, we organize papers into three diffusion stages:
+
+- **Nascent-diffusion industries**: industries where AI adoption is still emerging and applications remain exploratory.
+- **Growing-diffusion industries**: industries with expanding adoption and increasing integration into practical workflows.
+- **Widespread-diffusion industries**: industries where AI has already shown broad applicability and stronger ecosystem maturity.
+
+Each paper entry includes the following metadata:
+
+- **Title**
+- **Model**
+- **Date**
+- **Link**
+- **Venue**
 
 ---
 
-## Nascent-diffusion Industries
+# Nascent-diffusion Industries
 
-### Agriculture
-| Paper | Task | Technique | Stage |
-|-------|------|-----------|-------|
-| AgroLLM (Nguyen et al., 2025) | Management Q&A | DKPL-constrained RAG | Stage 1 |
+## Manufacturing
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| TBD | TBD | 2025 | [Paper](#) | TBD |
+| TBD | TBD | 2025 | [Paper](#) | TBD |
 
-### Real Estate
-| Paper | Task | Technique | Stage |
-|-------|------|-----------|-------|
-| Utilizing Large Language Models for Information Extraction from Real Estate Transactions | Information extraction | SFT | Stage 1 |
-| Real Estate Attribute Value Extraction Using Large Language Models | Information extraction | Prompt engineering | Stage 1 |
-| AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting | Automated copywriting | RAG | Stage 1 |
-| On the Performance of Large Language Models for Real Estate Appraisal | Price prediction | In-context learning | Stage 1 |
+## Agriculture
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| AgroLLM | LLM + RAG | 2025 | [Paper](#) | TBD |
+| TBD | TBD | 2025 | [Paper](#) | TBD |
 
-### Government
-| Paper | Task | Technique | Stage |
-|-------|------|-----------|-------|
-| Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents | Social simulation | Simulation MAS | Stage 1 |
-| Generative Agent Simulations of 1,000 People | Social simulation | Simulation MAS | Stage 1 |
-| GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance | Compliance | KG | Stage 1–2 |
-| PrivComp-KG: Leveraging KG and LLM for Compliance Verification | Compliance | RAG + KG | Stage 1–2 |
-| LLM Based Multi-Agent Generation of Semi-structured Documents | Document generation | MAS | Stage 1–2 |
-| Agents4Gov: Privacy-Preserving Browser Automation for Public Sector | Browser automation | Single agent | Stage 1–2 |
+## Real Estate
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| Utilizing Large Language Models for Information Extraction from Real Estate Transactions | LLM | 2024 | [Paper](#) | TBD |
+| Real Estate Attribute Value Extraction Using Large Language Models | LLM | 2024 | [Paper](#) | TBD |
+| AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting | LLM + RAG | 2024 | [Paper](#) | TBD |
+| On the Performance of Large Language Models for Real Estate Appraisal | LLM | 2024 | [Paper](#) | TBD |
 
----
-
-## Growing-diffusion Industries
-
-### Law
-| Paper | Task | Technique | Stage |
-|-------|------|-----------|-------|
-| LawGPT (Zhou et al., 2024b) | Legal drafting | Pretrain & SFT | Stage 1 |
-| Lawyer LLaMA (Huang et al., 2023) | Legal consultation | Pretrain & SFT & Retrieval | Stage 1 |
-| InterLM-Law (Fei et al., 2025) | Legal QA & case analysis | Two-stage SFT | Stage 1 |
-| Disc-LawLLM (Yue et al., 2023) | Legal services & reasoning | SFT & Retrieval | Stage 1 |
-| SaulLM (Colombo et al., 2024) | Legal text generation | Pretrain & SFT & DPO | Stage 1 |
-| ChatLaw (Cui et al., 2023) | Legal consultation | MoE & MAS & KG | Stage 2 |
-| L-MARS (Wang and Yuan, 2025) | Legal QA | MAS & Agentic Search | Stage 2 |
-| PAKTON (Raptopoulos et al., 2025) | Contract QA & review | MAS & RAG | Stage 2–3 |
-| AgentCourt (He et al., 2024b) | Judicial decision-making | MAS & Retrieval | Stage 2–3 |
-| LAW (Watson et al., 2025) | Contract query answering | MAS & Tool Orchestration | Stage 3 |
-| Law in Silico (Wang et al., 2025c) | Legal society simulation | Agent-based Simulation | Stage 3–4 |
-
-### Media
-| Paper | Task | Technique | Stage |
-|-------|------|-----------|-------|
-| SANCTUARY: Evidence-based Automated Fact Checking | Fact checking | Pipeline (RAG) | Stage 2 |
-| ScoreRAG: Consistency-Relevance Scoring for News Generation | News generation | Pipeline | Stage 2 |
-| Journalism-Guided Agentic In-Context Learning for News Stance Detection | Media analysis | Pipeline | Stage 2 |
-| Toward Verifiable Misinformation Detection | Fact checking | Single-agent | Stage 2 |
-| OpenFactCheck: Factuality Evaluation of LLMs | Fact checking | Single-agent | Stage 2 |
-| EditDuet: Multi-Agent Video Non-Linear Editing | Film editing | MAS (feedback-driven) | Stage 2 |
-| JRE-L: Journalist, Reader, Editor LLMs for Science Journalism | News generation | MAS (feedback-driven) | Stage 2 |
-| Can Memory-Augmented LLM Agents Aid Journalism | News generation | MAS (feedback-driven) | Stage 2 |
-| MACRec: Multi-Agent Collaboration for Recommendation | Recommendation | MAS (feedback-driven) | Stage 2 |
-| On Generative Agents in Recommendation | Recommendation | MAS (feedback-driven) | Stage 2 |
-| FilmAgent: End-to-End Film Automation in Virtual 3D Spaces | Film generation | MAS (role-based) | Stage 2 |
-| Kubrick: Multimodal Agent Collaborations for Synthetic Video | Film generation | MAS (role-based) | Stage 2 |
-| Automated Movie Generation via Multi-Agent CoT Planning | Film generation | MAS (role-based) | Stage 2 |
-| AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition | Film generation | MAS (role-based) | Stage 2 |
+## Government and Public Administration
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents | Multi-Agent LLM | 2025 | [Paper](#) | TBD |
+| Generative Agent Simulations of 1,000 People | Generative Agents | 2023 | [Paper](#) | UIST / arXiv |
+| GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance | LLM + KG | 2025 | [Paper](#) | TBD |
+| PrivComp-KG: Leveraging KG and LLM for Compliance Verification | LLM + KG + RAG | 2025 | [Paper](#) | TBD |
+| LLM Based Multi-Agent Generation of Semi-structured Documents | Multi-Agent LLM | 2025 | [Paper](#) | TBD |
+| Agents4Gov: Privacy-Preserving Browser Automation for Public Sector | LLM Agent | 2025 | [Paper](#) | TBD |
 
 ---
 
-## Widespread-diffusion Industries
+# Growing-diffusion Industries
 
-### Information Technology
-| Paper | Task | Technique | Stage |
-|-------|------|-----------|-------|
-| DeepSeek-Coder-V2 | Project-level code generation | – | Stage 1–2 |
-| WizardCoder: Evol-Instruct for Code LLMs | Single-round code generation | – | – |
-| CodeRL: Pretraining + RL for Code Generation | Single-round code generation | – | – |
-| PPOCoder: Execution-based Code Generation | Single-round code generation | – | – |
-| StepCoder: RL from Compiler Feedback | Single-round code generation | – | – |
-| CodeRL+: Execution Semantics Alignment | Single-round code generation | – | – |
-| Process-Supervised RL for Code Generation | Single-round code generation | – | – |
-| Teaching LLMs to Self-Debug | Code generation & self-debugging | – | – |
-| Revisit Self-Debugging with Self-Generated Tests | Code generation & self-debugging | – | – |
-| PyCapsule: LLM Guided Self-Debugging | Code generation & self-debugging | – | – |
-| ChatDev: Communicative Agents for Software Dev | Project-level dev | – | – |
-| MetaGPT: Multi-Agent Collaborative Programming | Project-level dev | – | – |
-| MapCoder: Multi-Agent Code for Competitive Problems | Multi-agent code gen | – | – |
-| MapCoder-Lite: Multi-Agent in Small LLM | Code generation | – | – |
-| CodePlan: Repository-level Coding & Planning | Repository-level coding | – | – |
-| SWE-Gym: Training Software Engineering Agents | Project-level dev | – | – |
-| AgentGen: Enhancing Planning for LLM Agents | Project-level dev | – | – |
-| R2E-Gym: Procedural Envs for SWE Agents | Project-level dev | – | – |
-| DeepSWE: RL Scaling for Coding Agents | Project-level dev | – | – |
-| RepoForge: End-to-End Data for SWE Agent Training | Project-level dev | – | – |
+## Trade
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| TBD | TBD | 2025 | [Paper](#) | TBD |
+| TBD | TBD | 2025 | [Paper](#) | TBD |
+
+## Media
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| SANCTUARY: Evidence-based Automated Fact Checking | Pipeline + RAG | 2025 | [Paper](#) | TBD |
+| ScoreRAG: Consistency-Relevance Scoring for News Generation | RAG Pipeline | 2025 | [Paper](#) | TBD |
+| Journalism-Guided Agentic In-Context Learning for News Stance Detection | Agentic LLM | 2025 | [Paper](#) | TBD |
+| Toward Verifiable Misinformation Detection | LLM Agent | 2025 | [Paper](#) | TBD |
+| OpenFactCheck: Factuality Evaluation of LLMs | LLM | 2024 | [Paper](#) | TBD |
+| EditDuet: Multi-Agent Video Non-Linear Editing | Multi-Agent LLM | 2025 | [Paper](#) | TBD |
+| JRE-L: Journalist, Reader, Editor LLMs for Science Journalism | Multi-Agent LLM | 2025 | [Paper](#) | TBD |
+| Can Memory-Augmented LLM Agents Aid Journalism | Memory-Augmented Agents | 2025 | [Paper](#) | TBD |
+| MACRec: Multi-Agent Collaboration for Recommendation | Multi-Agent LLM | 2024 | [Paper](#) | TBD |
+| On Generative Agents in Recommendation | Generative Agents | 2024 | [Paper](#) | TBD |
+| FilmAgent: End-to-End Film Automation in Virtual 3D Spaces | Multi-Agent System | 2025 | [Paper](#) | TBD |
+| Kubrick: Multimodal Agent Collaborations for Synthetic Video | Multimodal Agents | 2025 | [Paper](#) | TBD |
+| Automated Movie Generation via Multi-Agent CoT Planning | Multi-Agent LLM | 2025 | [Paper](#) | TBD |
+| AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition | Agent System | 2025 | [Paper](#) | TBD |
+
+## Education
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| TBD | TBD | 2025 | [Paper](#) | TBD |
+| TBD | TBD | 2025 | [Paper](#) | TBD |
+
+## Law
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| LawGPT | Legal LLM | 2024 | [Paper](#) | TBD |
+| Lawyer LLaMA | Legal LLM | 2023 | [Paper](#) | TBD |
+| InterLM-Law | Legal LLM | 2025 | [Paper](#) | TBD |
+| Disc-LawLLM | Legal LLM + Retrieval | 2023 | [Paper](#) | TBD |
+| SaulLM | Legal LLM | 2024 | [Paper](#) | TBD |
+| ChatLaw | MoE + Multi-Agent + KG | 2023 | [Paper](#) | TBD |
+| L-MARS | Multi-Agent LLM | 2025 | [Paper](#) | TBD |
+| PAKTON | Multi-Agent LLM + RAG | 2025 | [Paper](#) | TBD |
+| AgentCourt | Multi-Agent LLM + Retrieval | 2024 | [Paper](#) | TBD |
+| LAW | Multi-Agent LLM + Tools | 2025 | [Paper](#) | TBD |
+| Law in Silico | Agent-based Simulation | 2025 | [Paper](#) | TBD |
+
+---
+
+# Widespread-diffusion Industries
+
+## Information Technology
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| DeepSeek-Coder-V2 | Code LLM | 2024 | [Paper](#) | TBD |
+| WizardCoder: Evol-Instruct for Code LLMs | Code LLM | 2023 | [Paper](#) | TBD |
+| CodeRL: Pretraining + RL for Code Generation | Code LLM + RL | 2022 | [Paper](#) | TBD |
+| PPOCoder: Execution-based Code Generation | Code LLM + RL | 2024 | [Paper](#) | TBD |
+| StepCoder: RL from Compiler Feedback | Code LLM + RL | 2024 | [Paper](#) | TBD |
+| CodeRL+: Execution Semantics Alignment | Code LLM + RL | 2025 | [Paper](#) | TBD |
+| Process-Supervised RL for Code Generation | Code LLM + RL | 2025 | [Paper](#) | TBD |
+| Teaching LLMs to Self-Debug | Code LLM | 2024 | [Paper](#) | TBD |
+| Revisit Self-Debugging with Self-Generated Tests | Code LLM | 2025 | [Paper](#) | TBD |
+| PyCapsule: LLM Guided Self-Debugging | Code LLM | 2025 | [Paper](#) | TBD |
+| ChatDev: Communicative Agents for Software Development | Multi-Agent LLM | 2024 | [Paper](#) | TBD |
+| MetaGPT: Multi-Agent Collaborative Programming | Multi-Agent LLM | 2024 | [Paper](#) | TBD |
+| MapCoder: Multi-Agent Code for Competitive Problems | Multi-Agent LLM | 2024 | [Paper](#) | TBD |
+| MapCoder-Lite: Multi-Agent in Small LLM | Multi-Agent LLM | 2025 | [Paper](#) | TBD |
+| CodePlan: Repository-level Coding and Planning | Code Agent | 2025 | [Paper](#) | TBD |
+| SWE-Gym: Training Software Engineering Agents | SWE Agent | 2025 | [Paper](#) | TBD |
+| AgentGen: Enhancing Planning for LLM Agents | LLM Agent | 2025 | [Paper](#) | TBD |
+| R2E-Gym: Procedural Environments for SWE Agents | SWE Agent | 2025 | [Paper](#) | TBD |
+| DeepSWE: RL Scaling for Coding Agents | SWE Agent | 2025 | [Paper](#) | TBD |
+| RepoForge: End-to-End Data for SWE Agent Training | SWE Agent | 2025 | [Paper](#) | TBD |
+
+## Finance
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| TBD | TBD | 2025 | [Paper](#) | TBD |
+| TBD | TBD | 2025 | [Paper](#) | TBD |
+
+## Medical
+| Title | Model | Date | Link | Venue |
+|-------|-------|------|------|-------|
+| TBD | TBD | 2025 | [Paper](#) | TBD |
+| TBD | TBD | 2025 | [Paper](#) | TBD |
 
 ---
 
