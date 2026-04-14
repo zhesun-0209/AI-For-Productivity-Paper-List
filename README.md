@@ -4,11 +4,11 @@
 
 A curated collection of research papers on **AI for Productivity**, organized by **industry diffusion stages** and **domain-specific applications**.
 
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=for-the-badge)](https://arxiv.org/abs/xxxx.xxxxx)
-[![Paper](https://img.shields.io/badge/Paper-Project%20Page-orange?style=for-the-badge)](https://your-project-page-link)
-[![Stars](https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=for-the-badge)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
-[![License](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/blob/main/LICENSE)
-[![Citations](https://img.shields.io/badge/Citations-Google%20Scholar-blueviolet?style=for-the-badge)](https://scholar.google.com/scholar?q=AI+for+Productivity:+A+Survey)
+[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=flat-square)](https://arxiv.org/abs/xxxx.xxxxx)
+[![Project Page](https://img.shields.io/badge/Project%20Page-Online-2d6cdf?style=flat-square)](https://zhesun-0209.github.io/AI-For-Productivity-Paper-List/)
+[![Stars](https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
+[![License](https://img.shields.io/badge/License-MIT-8a8a8a?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/blob/main/LICENSE)
+[![Citations](https://img.shields.io/badge/Citations-Coming%20Soon-8a8a8a?style=flat-square)](#citation)
 
 </div>
 
