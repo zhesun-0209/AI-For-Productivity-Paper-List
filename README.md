@@ -2,8 +2,6 @@
 
 # AI for Productivity Survey
 
-A curated collection of research papers on **AI for Productivity**, organized by **industry diffusion stages** and **domain-specific applications**.
-
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=flat-square)](https://arxiv.org/abs/xxxx.xxxxx)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Online-2d6cdf?style=flat-square)](https://zhesun-0209.github.io/AI-For-Productivity-Paper-List/)
 [![Stars](https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
