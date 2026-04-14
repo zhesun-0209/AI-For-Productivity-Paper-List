@@ -3,9 +3,9 @@
 # AI for Productivity Survey
 
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-B31B1B?style=flat-square)](https://arxiv.org/abs/xxxx.xxxxx)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E?style=flat-square&logo=huggingface&logoColor=000000)](https://huggingface.co/papers/xxxx.xxxxx)
+[![Hugging Face Paper](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-FFD21E?style=flat-square&logoColor=000000)](https://huggingface.co/papers/xxxx.xxxxx)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Online-2EA44F?style=flat-square)](https://zhesun-0209.github.io/AI-For-Productivity-Paper-List/)
-[![Stars](https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square&color=181717)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
+[![GitHub Stars](https://img.shields.io/badge/%E2%AD%90%20GitHub-Stars-181717?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
 [![License](https://img.shields.io/badge/License-MIT-7A7A7A?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/blob/main/LICENSE)
 [![Citations](https://img.shields.io/badge/Citations-Coming%20Soon-4285F4?style=flat-square)](#citation)
 
