@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-B31B1B?style=flat-square)](https://arxiv.org/abs/xxxx.xxxxx)
 [![Hugging Face Paper](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-FFD21E?style=flat-square&logoColor=000000)](https://huggingface.co/papers/xxxx.xxxxx)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Online-2EA44F?style=flat-square)](https://zhesun-0209.github.io/AI-For-Productivity-Paper-List/)
-[![GitHub stars](https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square&color=181717&label=%E2%AD%90%20GitHub%20Stars)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
+[![GitHub stars](https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square&color=181717&label=%E2%9D%A4%20GitHub%20Stars)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
 [![License](https://img.shields.io/badge/License-MIT-7A7A7A?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/blob/main/LICENSE)
 [![Citations](https://img.shields.io/badge/Citations-Coming%20Soon-4285F4?style=flat-square)](#citation)
 
@@ -20,37 +20,37 @@
 ---
 
 ## 📚 Table of Contents
-- [🌱 Nascent-diffusion Industries](#-nascent-diffusion-industries)
-  - [🏭 Manufacturing](#-manufacturing)
-  - [🌾 Agriculture](#-agriculture)
-  - [🏠 Real Estate](#-real-estate)
-  - [🏛️ Government and Public Administration](#-government-and-public-administration)
-- [📈 Growing-diffusion Industries](#-growing-diffusion-industries)
-  - [🛍️ Trade](#-trade)
-  - [📰 Media](#-media)
-  - [🎓 Education](#-education)
-  - [⚖️ Law](#-law)
-- [🌍 Widespread-diffusion Industries](#-widespread-diffusion-industries)
-  - [💻 Information Technology](#-information-technology)
-  - [💰 Finance](#-finance)
-  - [🩺 Medical](#-medical)
-- [📖 Citation](#-citation)
-- [🤝 Contribution](#-contribution)
-  - [🌟 Star History](#-star-history)
-  - [👥 Contributors](#-contributors)
+- [🌱 Nascent-diffusion Industries](sslocal://flow/file_open?url=%23-nascent-diffusion-industries&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [🏭 Manufacturing](sslocal://flow/file_open?url=%23-manufacturing&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [🌾 Agriculture](sslocal://flow/file_open?url=%23-agriculture&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [🏠 Real Estate](sslocal://flow/file_open?url=%23-real-estate&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [🏛️ Government and Public Administration](sslocal://flow/file_open?url=%23-government-and-public-administration&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [📈 Growing-diffusion Industries](sslocal://flow/file_open?url=%23-growing-diffusion-industries&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [🛍️ Trade](sslocal://flow/file_open?url=%23-trade&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [📰 Media](sslocal://flow/file_open?url=%23-media&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [🎓 Education](sslocal://flow/file_open?url=%23-education&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [⚖️ Law](sslocal://flow/file_open?url=%23-law&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [🌍 Widespread-diffusion Industries](sslocal://flow/file_open?url=%23-widespread-diffusion-industries&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [💻 Information Technology](sslocal://flow/file_open?url=%23-information-technology&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [💰 Finance](sslocal://flow/file_open?url=%23-finance&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [🩺 Medical](sslocal://flow/file_open?url=%23-medical&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [📖 Citation](sslocal://flow/file_open?url=%23-citation&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [🤝 Contribution](sslocal://flow/file_open?url=%23-contribution&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [🌟 Star History](sslocal://flow/file_open?url=%23-star-history&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+  - [👥 Contributors](sslocal://flow/file_open?url=%23-contributors&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 
 ---
 
 # 🌱 Nascent-diffusion Industries
 
 ## 🏭 Manufacturing
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -80,13 +80,13 @@
 </table>
 
 ## 🌾 Agriculture
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -116,13 +116,13 @@
 </table>
 
 ## 🏠 Real Estate
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -166,13 +166,13 @@
 </table>
 
 ## 🏛️ Government and Public Administration
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -234,13 +234,13 @@
 # 📈 Growing-diffusion Industries
 
 ## 🛍️ Trade
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -270,13 +270,13 @@
 </table>
 
 ## 📰 Media
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -390,13 +390,13 @@
 </table>
 
 ## 🎓 Education
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -426,13 +426,13 @@
 </table>
 
 ## ⚖️ Law
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -473,14 +473,14 @@
       <td style="white-space: nowrap;">arXiv</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">SaulLM-7B: A pioneering Large Language Model for Law</td>
+      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">SaulLM-7B: A Pioneering Large Language Model for Law</td>
       <td style="white-space: nowrap;">SaulLM</td>
       <td style="white-space: nowrap;">2024-03</td>
-      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2403.03083">Paper</a></td>
+      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2403.03883">Paper</a></td>
       <td style="white-space: nowrap;">arXiv</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model</td>
+      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">ChatLaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model</td>
       <td style="white-space: nowrap;">ChatLaw</td>
       <td style="white-space: nowrap;">2023-06</td>
       <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2306.16092">Paper</a></td>
@@ -529,13 +529,13 @@
 # 🌍 Widespread-diffusion Industries
 
 ## 💻 Information Technology
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -691,13 +691,13 @@
 </table>
 
 ## 💰 Finance
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -727,13 +727,13 @@
 </table>
 
 ## 🩺 Medical
-<table>
+<table style="width:100%; table-layout: fixed;">
   <colgroup>
-    <col style="width: 35%">
-    <col style="width: 22%">
-    <col style="width: 10%">
-    <col style="width: 8%">
-    <col style="width: 25%">
+    <col style="width: 30%;">
+    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 15%;">
+    <col style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
