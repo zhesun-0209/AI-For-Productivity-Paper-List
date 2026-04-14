@@ -38,6 +38,7 @@
 - [🤝 Contribution](#-contribution)
   - [🌟 Star History](#-star-history)
   - [👥 Contributors](#-contributors)
+
 ---
 
 # 🌱 Nascent-diffusion Industries
@@ -45,8 +46,8 @@
 ## 🏭 Manufacturing
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -60,7 +61,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>TBD</td>
       <td>TBD</td>
@@ -81,8 +82,8 @@
 ## 🌾 Agriculture
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -96,7 +97,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>AgroLLM</td>
       <td>LLM + RAG</td>
@@ -117,8 +118,8 @@
 ## 🏠 Real Estate
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -132,7 +133,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>Utilizing Large Language Models for Information Extraction from Real Estate Transactions</td>
       <td>LLM</td>
@@ -167,8 +168,8 @@
 ## 🏛️ Government and Public Administration
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -182,7 +183,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents</td>
       <td>Multi-Agent LLM</td>
@@ -235,8 +236,8 @@
 ## 🛍️ Trade
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -250,7 +251,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>TBD</td>
       <td>TBD</td>
@@ -271,8 +272,8 @@
 ## 📰 Media
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -286,7 +287,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>SANCTUARY: Evidence-based Automated Fact Checking</td>
       <td>Pipeline + RAG</td>
@@ -391,8 +392,8 @@
 ## 🎓 Education
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -406,7 +407,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>TBD</td>
       <td>TBD</td>
@@ -427,11 +428,11 @@
 ## ⚖️ Law
 <table>
   <colgroup>
-    <col style="width: 42%">
-    <col style="width: 24%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
-    <col style="width: 10%">
-    <col style="width: 14%">
+    <col style="width: 12%">
+    <col style="width: 20%">
   </colgroup>
   <thead>
     <tr>
@@ -442,7 +443,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model</td>
       <td>LawGPT</td>
@@ -530,8 +531,8 @@
 ## 💻 Information Technology
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -545,7 +546,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>DeepSeek-Coder-V2</td>
       <td>Code LLM</td>
@@ -692,8 +693,8 @@
 ## 💰 Finance
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -707,7 +708,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>TBD</td>
       <td>TBD</td>
@@ -728,8 +729,8 @@
 ## 🩺 Medical
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 38%">
+    <col style="width: 20%">
     <col style="width: 10%">
     <col style="width: 12%">
     <col style="width: 20%">
@@ -743,7 +744,7 @@
       <th>Venue</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="font-size: 14px;">
     <tr>
       <td>TBD</td>
       <td>TBD</td>
