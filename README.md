@@ -1,7 +1,5 @@
 <div align="center">
 
-# AI for Productivity Survey<div align="center">
-
 # AI for Productivity Survey
 
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-B31B1B?style=flat-square)](https://arxiv.org/abs/xxxx.xxxxx)
