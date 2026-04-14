@@ -7,9 +7,6 @@
     <a href="https://huggingface.co/papers/xxxx.xxxxx">
       <img src="https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E?style=flat-square&logo=huggingface" alt="Hugging Face Paper">
     </a>
-    <a href="https://zhesun-0209.github.io/AI-For-Productivity-Paper-List/">
-      <img src="https://img.shields.io/badge/Project%20Page-Online-2EA44F?style=flat-square&logo=githubpages&logoColor=white" alt="Project Page">
-    </a>
     <a href="https://github.com/zhesun-0209/AI-For-Productivity-Paper-List">
       <img src="https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square&color=24292F&logo=github&logoColor=white&label=Stars" alt="GitHub Stars">
     </a>
