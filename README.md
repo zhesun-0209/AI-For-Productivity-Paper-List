@@ -64,7 +64,7 @@
 </p>
 
 > **Introduction text placeholder**  
-> 这里先留白。你之后把 main figure 的介绍文字发给我，我帮你补成正式学术表达版本。
+> placeholder
 
 ---
 
@@ -77,7 +77,7 @@
 </p>
 
 > **Stage description placeholder**  
-> 这里先留白。你之后把 stage 划分的解释文字发给我，我帮你整理成正式版本。
+> placeholder
 
 ---
 
@@ -90,7 +90,7 @@
 </p>
 
 > **Nascent-diffusion introduction placeholder**  
-> 这里先留白。你之后把这一类的说明文字发给我，我帮你补上。
+> placeholder
 
 <a id="manufacturing"></a>
 
@@ -145,7 +145,7 @@
 </p>
 
 > **Growing-diffusion introduction placeholder**  
-> 这里先留白。你之后把这一类的说明文字发给我，我帮你补上。
+> placeholder
 
 <a id="trade"></a>
 
@@ -215,7 +215,7 @@
 </p>
 
 > **Widespread-diffusion introduction placeholder**  
-> 这里先留白。你之后把这一类的说明文字发给我，我帮你补上。
+> placeholder
 
 <a id="information-technology"></a>
 
