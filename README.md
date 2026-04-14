@@ -1,9 +1,16 @@
-# 🚀 AI for Productivity Survey
-[![Stars](https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
-[![Last Commit](https://img.shields.io/github/last-commit/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/commits/main)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-brightgreen?style=flat-square)](https://zhesun-0209.github.io/AI-For-Productivity-Paper-List/)
+<div align="center">
+
+# AI for Productivity Survey
 
 A curated collection of research papers on **AI for Productivity**, organized by **industry diffusion stages** and **domain-specific applications**.
+
+[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=for-the-badge)](https://arxiv.org/abs/xxxx.xxxxx)
+[![Paper](https://img.shields.io/badge/Paper-Project%20Page-orange?style=for-the-badge)](https://your-project-page-link)
+[![Stars](https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=for-the-badge)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
+[![License](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/blob/main/LICENSE)
+[![Citations](https://img.shields.io/badge/Citations-Google%20Scholar-blueviolet?style=for-the-badge)](https://scholar.google.com/scholar?q=AI+for+Productivity:+A+Survey)
+
+</div>
 
 ---
 
