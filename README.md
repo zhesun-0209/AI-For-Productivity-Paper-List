@@ -76,12 +76,12 @@
 ## 🏛️ Government and Public Administration
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents](#) | Multi-Agent LLM | 2025 | TBD |
-| [Generative Agent Simulations of 1,000 People](#) | Generative Agents | 2023 | UIST / arXiv |
-| [GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance](#) | LLM + KG | 2025 | TBD |
-| [PrivComp-KG: Leveraging KG and LLM for Compliance Verification](#) | LLM + KG + RAG | 2025 | TBD |
-| [LLM Based Multi-Agent Generation of Semi-structured Documents](#) | Multi-Agent LLM | 2025 | TBD |
-| [Agents4Gov: Privacy-Preserving Browser Automation for Public Sector](#) | LLM Agent | 2025 | TBD |
+| [Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents](#) | TBD | 2025 | TBD |
+| [Generative Agent Simulations of 1,000 People](#) | TBD | 2023 | TBD |
+| [GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance](#) | TBD | 2025 | TBD |
+| [PrivComp-KG: Leveraging KG and LLM for Compliance Verification](#) | TBD | 2025 | TBD |
+| [LLM Based Multi-Agent Generation of Semi-structured Documents](#) | TBD | 2025 | TBD |
+| [Agents4Gov: Privacy-Preserving Browser Automation for Public Sector](#) | TBD | 2025 | TBD |
 
 ---
 
@@ -102,20 +102,20 @@
 ## 📰 Media
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [SANCTUARY: Evidence-based Automated Fact Checking](#) | Pipeline + RAG | 2025 | TBD |
-| [ScoreRAG: Consistency-Relevance Scoring for News Generation](#) | RAG Pipeline | 2025 | TBD |
-| [Journalism-Guided Agentic In-Context Learning for News Stance Detection](#) | Agentic LLM | 2025 | TBD |
-| [Toward Verifiable Misinformation Detection](#) | LLM Agent | 2025 | TBD |
-| [OpenFactCheck: Factuality Evaluation of LLMs](#) | LLM | 2024 | TBD |
-| [EditDuet: Multi-Agent Video Non-Linear Editing](#) | Multi-Agent LLM | 2025 | TBD |
-| [JRE-L: Journalist, Reader, Editor LLMs for Science Journalism](#) | Multi-Agent LLM | 2025 | TBD |
-| [Can Memory-Augmented LLM Agents Aid Journalism](#) | Memory-Augmented Agents | 2025 | TBD |
-| [MACRec: Multi-Agent Collaboration for Recommendation](#) | Multi-Agent LLM | 2024 | TBD |
-| [On Generative Agents in Recommendation](#) | Generative Agents | 2024 | TBD |
-| [FilmAgent: End-to-End Film Automation in Virtual 3D Spaces](#) | Multi-Agent System | 2025 | TBD |
-| [Kubrick: Multimodal Agent Collaborations for Synthetic Video](#) | Multimodal Agents | 2025 | TBD |
-| [Automated Movie Generation via Multi-Agent CoT Planning](#) | Multi-Agent LLM | 2025 | TBD |
-| [AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition](#) | Agent System | 2025 | TBD |
+| [SANCTUARY: Evidence-based Automated Fact Checking](#) | TBD | 2025 | TBD |
+| [ScoreRAG: Consistency-Relevance Scoring for News Generation](#) | TBD | 2025 | TBD |
+| [Journalism-Guided Agentic In-Context Learning for News Stance Detection](#) | TBD | 2025 | TBD |
+| [Toward Verifiable Misinformation Detection](#) | TBD | 2025 | TBD |
+| [OpenFactCheck: Factuality Evaluation of LLMs](#) | TBD | 2024 | TBD |
+| [EditDuet: Multi-Agent Video Non-Linear Editing](#) | TBD | 2025 | TBD |
+| [JRE-L: Journalist, Reader, Editor LLMs for Science Journalism](#) | TBD | 2025 | TBD |
+| [Can Memory-Augmented LLM Agents Aid Journalism](#) | TBD | 2025 | TBD |
+| [MACRec: Multi-Agent Collaboration for Recommendation](#) | TBD | 2024 | TBD |
+| [On Generative Agents in Recommendation](#) | TBD | 2024 | TBD |
+| [FilmAgent: End-to-End Film Automation in Virtual 3D Spaces](#) | TBD | 2025 | TBD |
+| [Kubrick: Multimodal Agent Collaborations for Synthetic Video](#) | TBD | 2025 | TBD |
+| [Automated Movie Generation via Multi-Agent CoT Planning](#) | TBD | 2025 | TBD |
+| [AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition](#) | TBD | 2025 | TBD |
 
 <a id="education"></a>
 
@@ -153,26 +153,26 @@
 ## 💻 Information Technology
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [DeepSeek-Coder-V2](#) | Code LLM | 2024 | TBD |
-| [WizardCoder: Evol-Instruct for Code LLMs](#) | Code LLM | 2023 | TBD |
-| [CodeRL: Pretraining + RL for Code Generation](#) | Code LLM + RL | 2022 | TBD |
-| [PPOCoder: Execution-based Code Generation](#) | Code LLM + RL | 2024 | TBD |
-| [StepCoder: RL from Compiler Feedback](#) | Code LLM + RL | 2024 | TBD |
-| [CodeRL+: Execution Semantics Alignment](#) | Code LLM + RL | 2025 | TBD |
-| [Process-Supervised RL for Code Generation](#) | Code LLM + RL | 2025 | TBD |
-| [Teaching LLMs to Self-Debug](#) | Code LLM | 2024 | TBD |
-| [Revisit Self-Debugging with Self-Generated Tests](#) | Code LLM | 2025 | TBD |
-| [PyCapsule: LLM Guided Self-Debugging](#) | Code LLM | 2025 | TBD |
-| [ChatDev: Communicative Agents for Software Development](#) | Multi-Agent LLM | 2024 | TBD |
-| [MetaGPT: Multi-Agent Collaborative Programming](#) | Multi-Agent LLM | 2024 | TBD |
-| [MapCoder: Multi-Agent Code for Competitive Problems](#) | Multi-Agent LLM | 2024 | TBD |
-| [MapCoder-Lite: Multi-Agent in Small LLM](#) | Multi-Agent LLM | 2025 | TBD |
-| [CodePlan: Repository-level Coding and Planning](#) | Code Agent | 2025 | TBD |
-| [SWE-Gym: Training Software Engineering Agents](#) | SWE Agent | 2025 | TBD |
-| [AgentGen: Enhancing Planning for LLM Agents](#) | LLM Agent | 2025 | TBD |
-| [R2E-Gym: Procedural Environments for SWE Agents](#) | SWE Agent | 2025 | TBD |
-| [DeepSWE: RL Scaling for Coding Agents](#) | SWE Agent | 2025 | TBD |
-| [RepoForge: End-to-End Data for SWE Agent Training](#) | SWE Agent | 2025 | TBD |
+| [DeepSeek-Coder-V2](#) | TBD | 2024 | TBD |
+| [WizardCoder: Evol-Instruct for Code LLMs](#) | TBD | 2023 | TBD |
+| [CodeRL: Pretraining + RL for Code Generation](#) | TBD | 2022 | TBD |
+| [PPOCoder: Execution-based Code Generation](#) | TBD | 2024 | TBD |
+| [StepCoder: RL from Compiler Feedback](#) | TBD | 2024 | TBD |
+| [CodeRL+: Execution Semantics Alignment](#) | TBD | 2025 | TBD |
+| [Process-Supervised RL for Code Generation](#) | TBD | 2025 | TBD |
+| [Teaching LLMs to Self-Debug](#) | TBD | 2024 | TBD |
+| [Revisit Self-Debugging with Self-Generated Tests](#) | TBD | 2025 | TBD |
+| [PyCapsule: LLM Guided Self-Debugging](#) | TBD | 2025 | TBD |
+| [ChatDev: Communicative Agents for Software Development](#) | TBD | 2024 | TBD |
+| [MetaGPT: Multi-Agent Collaborative Programming](#) | TBD | 2024 | TBD |
+| [MapCoder: Multi-Agent Code for Competitive Problems](#) | TBD | 2024 | TBD |
+| [MapCoder-Lite: Multi-Agent in Small LLM](#) | TBD | 2025 | TBD |
+| [CodePlan: Repository-level Coding and Planning](#) | TBD | 2025 | TBD |
+| [SWE-Gym: Training Software Engineering Agents](#) | TBD | 2025 | TBD |
+| [AgentGen: Enhancing Planning for LLM Agents](#) | TBD | 2025 | TBD |
+| [R2E-Gym: Procedural Environments for SWE Agents](#) | TBD | 2025 | TBD |
+| [DeepSWE: RL Scaling for Coding Agents](#) | TBD | 2025 | TBD |
+| [RepoForge: End-to-End Data for SWE Agent Training](#) | TBD | 2025 | TBD |
 
 <a id="finance"></a>
 
