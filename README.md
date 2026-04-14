@@ -18,11 +18,10 @@
       <img src="https://img.shields.io/badge/License-MIT-7A7A7A?style=flat-square" alt="License">
     </a>
     <a href="#citation">
-      <img src="https://img.shields.io/badge/Citations-Coming%20Soon-4285F4?style=flat-square" alt="Citations">
+      <img src="https://img.shields.io/badge/Citation-Coming%20Soon-4285F4?style=flat-square" alt="Citation">
     </a>
   </p>
 </div>
-
 
 ---
 
@@ -33,6 +32,8 @@
 ---
 
 ## 📚 Table of Contents
+- [🧭 Overview](#overview)
+- [🪜 Stages of AI for Productivity](#stages-of-ai-for-productivity)
 - [🌱 Nascent-diffusion Industries](#nascent-diffusion-industries)
   - [🏭 Manufacturing](#manufacturing)
   - [🌾 Agriculture](#agriculture)
@@ -54,9 +55,42 @@
 
 ---
 
+<a id="overview"></a>
+
+# 🧭 Overview
+
+<p align="center">
+  <img src="figures/main.png" alt="AI for Productivity overview" width="95%">
+</p>
+
+> **Introduction text placeholder**  
+> 这里先留白。你之后把 main figure 的介绍文字发给我，我帮你补成正式学术表达版本。
+
+---
+
+<a id="stages-of-ai-for-productivity"></a>
+
+# 🪜 Stages of AI for Productivity
+
+<p align="center">
+  <img src="figures/stages.png" alt="Stages of AI for Productivity" width="95%">
+</p>
+
+> **Stage description placeholder**  
+> 这里先留白。你之后把 stage 划分的解释文字发给我，我帮你整理成正式版本。
+
+---
+
 <a id="nascent-diffusion-industries"></a>
 
 # 🌱 Nascent-diffusion Industries
+
+<p align="center">
+  <img src="figures/nascent.png" alt="Nascent-diffusion industries" width="95%">
+</p>
+
+> **Nascent-diffusion introduction placeholder**  
+> 这里先留白。你之后把这一类的说明文字发给我，我帮你补上。
 
 <a id="manufacturing"></a>
 
@@ -105,6 +139,13 @@
 <a id="growing-diffusion-industries"></a>
 
 # 📈 Growing-diffusion Industries
+
+<p align="center">
+  <img src="figures/growing.png" alt="Growing-diffusion industries" width="95%">
+</p>
+
+> **Growing-diffusion introduction placeholder**  
+> 这里先留白。你之后把这一类的说明文字发给我，我帮你补上。
 
 <a id="trade"></a>
 
@@ -169,6 +210,13 @@
 
 # 🌍 Widespread-diffusion Industries
 
+<p align="center">
+  <img src="figures/widespread.png" alt="Widespread-diffusion industries" width="95%">
+</p>
+
+> **Widespread-diffusion introduction placeholder**  
+> 这里先留白。你之后把这一类的说明文字发给我，我帮你补上。
+
 <a id="information-technology"></a>
 
 ## 💻 Information Technology
@@ -219,6 +267,7 @@
 <a id="citation"></a>
 
 ## 📖 Citation
+
 If you find this repository useful, please cite our survey:
 
 ```bibtex
