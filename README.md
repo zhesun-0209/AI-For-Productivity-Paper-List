@@ -89,8 +89,12 @@ A four-stage framework for AI-driven productivity evolution:
   <img src="figures/nascent.png" alt="Nascent-diffusion industries" width="95%">
 </p>
 
-> **Nascent-diffusion introduction placeholder**  
-> placeholder
+**Nascent-diffusion industries** represent the early stage of AI adoption where Agentic AI primarily mainly serves as a **conversational assistant** and **reactive operator** under human supervision.
+In this phase, AI penetration remains limited, with applications focused on efficiency-driven, task-specific assistance rather than end-to-end autonomous operation. The figure outlines current AI use cases and core limitations across four representative sectors:
+🏭 **Manufacturing**: Defect detection, engineering & design assistance, operational decision support
+🌾 **Agriculture**: Plant disease diagnosis, agricultural decision support, consultation cross-validation
+🏠 **Real Estate**: Property price estimation, transaction information extraction, property marketing copywriting
+🏛️ **Government & Public Administration**: Administrative business consultation, social stimulation, administrative document writing
 
 <a id="manufacturing"></a>
 
