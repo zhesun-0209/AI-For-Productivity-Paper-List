@@ -48,152 +48,40 @@
 <a id="manufacturing"></a>
 
 ## 🏭 Manufacturing
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 <a id="agriculture"></a>
 
 ## 🌾 Agriculture
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">AgroLLM</td>
-    <td style="white-space:nowrap;">LLM + RAG</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| AgroLLM | LLM + RAG | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 <a id="real-estate"></a>
 
 ## 🏠 Real Estate
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Utilizing Large Language Models for Information Extraction from Real Estate Transactions</td>
-    <td style="white-space:nowrap;">LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Real Estate Attribute Value Extraction Using Large Language Models</td>
-    <td style="white-space:nowrap;">LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting</td>
-    <td style="white-space:nowrap;">LLM + RAG</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">On the Performance of Large Language Models for Real Estate Appraisal</td>
-    <td style="white-space:nowrap;">LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| Utilizing Large Language Models for Information Extraction from Real Estate Transactions | LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Real Estate Attribute Value Extraction Using Large Language Models | LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting | LLM + RAG | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| On the Performance of Large Language Models for Real Estate Appraisal | LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 <a id="government-and-public-administration"></a>
 
 ## 🏛️ Government and Public Administration
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Generative Agent Simulations of 1,000 People</td>
-    <td style="white-space:nowrap;">Generative Agents</td>
-    <td style="white-space:nowrap;">2023</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">UIST / arXiv</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance</td>
-    <td style="white-space:nowrap;">LLM + KG</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">PrivComp-KG: Leveraging KG and LLM for Compliance Verification</td>
-    <td style="white-space:nowrap;">LLM + KG + RAG</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">LLM Based Multi-Agent Generation of Semi-structured Documents</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Agents4Gov: Privacy-Preserving Browser Automation for Public Sector</td>
-    <td style="white-space:nowrap;">LLM Agent</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents | Multi-Agent LLM | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Generative Agent Simulations of 1,000 People | Generative Agents | 2023 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | UIST / arXiv |
+| GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance | LLM + KG | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| PrivComp-KG: Leveraging KG and LLM for Compliance Verification | LLM + KG + RAG | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| LLM Based Multi-Agent Generation of Semi-structured Documents | Multi-Agent LLM | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Agents4Gov: Privacy-Preserving Browser Automation for Public Sector | LLM Agent | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 ---
 
@@ -204,257 +92,55 @@
 <a id="trade"></a>
 
 ## 🛍️ Trade
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 <a id="media"></a>
 
 ## 📰 Media
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">SANCTUARY: Evidence-based Automated Fact Checking</td>
-    <td style="white-space:nowrap;">Pipeline + RAG</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">ScoreRAG: Consistency-Relevance Scoring for News Generation</td>
-    <td style="white-space:nowrap;">RAG Pipeline</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Journalism-Guided Agentic In-Context Learning for News Stance Detection</td>
-    <td style="white-space:nowrap;">Agentic LLM</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Toward Verifiable Misinformation Detection</td>
-    <td style="white-space:nowrap;">LLM Agent</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">OpenFactCheck: Factuality Evaluation of LLMs</td>
-    <td style="white-space:nowrap;">LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">EditDuet: Multi-Agent Video Non-Linear Editing</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">JRE-L: Journalist, Reader, Editor LLMs for Science Journalism</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Can Memory-Augmented LLM Agents Aid Journalism</td>
-    <td style="white-space:nowrap;">Memory-Augmented Agents</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">MACRec: Multi-Agent Collaboration for Recommendation</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">On Generative Agents in Recommendation</td>
-    <td style="white-space:nowrap;">Generative Agents</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">FilmAgent: End-to-End Film Automation in Virtual 3D Spaces</td>
-    <td style="white-space:nowrap;">Multi-Agent System</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Kubrick: Multimodal Agent Collaborations for Synthetic Video</td>
-    <td style="white-space:nowrap;">Multimodal Agents</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Automated Movie Generation via Multi-Agent CoT Planning</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition</td>
-    <td style="white-space:nowrap;">Agent System</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| SANCTUARY: Evidence-based Automated Fact Checking | Pipeline + RAG | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| ScoreRAG: Consistency-Relevance Scoring for News Generation | RAG Pipeline | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Journalism-Guided Agentic In-Context Learning for News Stance Detection | Agentic LLM | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Toward Verifiable Misinformation Detection | LLM Agent | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| OpenFactCheck: Factuality Evaluation of LLMs | LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| EditDuet: Multi-Agent Video Non-Linear Editing | Multi-Agent LLM | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| JRE-L: Journalist, Reader, Editor LLMs for Science Journalism | Multi-Agent LLM | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Can Memory-Augmented LLM Agents Aid Journalism | Memory-Augmented Agents | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| MACRec: Multi-Agent Collaboration for Recommendation | Multi-Agent LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| On Generative Agents in Recommendation | Generative Agents | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| FilmAgent: End-to-End Film Automation in Virtual 3D Spaces | Multi-Agent System | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Kubrick: Multimodal Agent Collaborations for Synthetic Video | Multimodal Agents | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Automated Movie Generation via Multi-Agent CoT Planning | Multi-Agent LLM | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition | Agent System | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 <a id="education"></a>
 
 ## 🎓 Education
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 <a id="law"></a>
 
 ## ⚖️ Law
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model</td>
-    <td style="white-space:nowrap;">LawGPT</td>
-    <td style="white-space:nowrap;">2024-06</td>
-    <td style="white-space:nowrap;"><a href="https://arxiv.org/abs/2406.04614">Paper</a></td>
-    <td style="white-space:nowrap;">arXiv</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Lawyer LLaMA Technical Report</td>
-    <td style="white-space:nowrap;">Lawyer LLaMA</td>
-    <td style="white-space:nowrap;">2023-05</td>
-    <td style="white-space:nowrap;"><a href="https://arxiv.org/abs/2305.15062">Paper</a></td>
-    <td style="white-space:nowrap;">arXiv</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">InternLM-Law: An Open-Sourced Chinese Legal Large Language Model</td>
-    <td style="white-space:nowrap;">InternLM-Law</td>
-    <td style="white-space:nowrap;">2025-01</td>
-    <td style="white-space:nowrap;"><a href="https://aclanthology.org/2025.coling-main.629/">Paper</a></td>
-    <td style="white-space:nowrap;">COLING 2025</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services</td>
-    <td style="white-space:nowrap;">Disc-LawLLM</td>
-    <td style="white-space:nowrap;">2023-09</td>
-    <td style="white-space:nowrap;"><a href="https://arxiv.org/abs/2309.11325">Paper</a></td>
-    <td style="white-space:nowrap;">arXiv</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">SaulLM-7B: A Pioneering Large Language Model for Law</td>
-    <td style="white-space:nowrap;">SaulLM</td>
-    <td style="white-space:nowrap;">2024-03</td>
-    <td style="white-space:nowrap;"><a href="https://arxiv.org/abs/2403.03883">Paper</a></td>
-    <td style="white-space:nowrap;">arXiv</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">ChatLaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model</td>
-    <td style="white-space:nowrap;">ChatLaw</td>
-    <td style="white-space:nowrap;">2023-06</td>
-    <td style="white-space:nowrap;"><a href="https://arxiv.org/abs/2306.16092">Paper</a></td>
-    <td style="white-space:nowrap;">arXiv</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search</td>
-    <td style="white-space:nowrap;">L-MARS</td>
-    <td style="white-space:nowrap;">2025-08</td>
-    <td style="white-space:nowrap;"><a href="https://arxiv.org/abs/2509.00761">Paper</a></td>
-    <td style="white-space:nowrap;">arXiv</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">PAKTON: A Multi-Agent Framework for Question Answering in Long Legal Agreements</td>
-    <td style="white-space:nowrap;">PAKTON</td>
-    <td style="white-space:nowrap;">2025-11</td>
-    <td style="white-space:nowrap;"><a href="https://aclanthology.org/2025.emnlp-main.403/">Paper</a></td>
-    <td style="white-space:nowrap;">EMNLP 2025</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation</td>
-    <td style="white-space:nowrap;">AgentCourt</td>
-    <td style="white-space:nowrap;">2024-11</td>
-    <td style="white-space:nowrap;"><a href="https://aclanthology.org/2024.findings-emnlp.549/">Paper</a></td>
-    <td style="white-space:nowrap;">Findings of EMNLP 2024</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">LAW: Legal Agentic Workflows for Custody and Fund Services Contracts</td>
-    <td style="white-space:nowrap;">LAW</td>
-    <td style="white-space:nowrap;">2025-01</td>
-    <td style="white-space:nowrap;"><a href="https://aclanthology.org/2025.coling-industry.50/">Paper</a></td>
-    <td style="white-space:nowrap;">COLING 2025 Industry Track</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Law in Silico: Simulating Legal Society with LLM-Based Agents</td>
-    <td style="white-space:nowrap;">Law in Silico</td>
-    <td style="white-space:nowrap;">2025-10</td>
-    <td style="white-space:nowrap;"><a href="https://arxiv.org/abs/2510.24442">Paper</a></td>
-    <td style="white-space:nowrap;">arXiv</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model | LawGPT | 2024-06 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Farxiv.org%2Fabs%2F2406.04614&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | arXiv |
+| Lawyer LLaMA Technical Report | Lawyer LLaMA | 2023-05 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Farxiv.org%2Fabs%2F2305.15062&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | arXiv |
+| InternLM-Law: An Open-Sourced Chinese Legal Large Language Model | InternLM-Law | 2025-01 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Faclanthology.org%2F2025.coling-main.629%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | COLING 2025 |
+| DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services | Disc-LawLLM | 2023-09 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Farxiv.org%2Fabs%2F2309.11325&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | arXiv |
+| SaulLM-7B: A Pioneering Large Language Model for Law | SaulLM | 2024-03 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Farxiv.org%2Fabs%2F2403.03883&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | arXiv |
+| ChatLaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model | ChatLaw | 2023-06 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Farxiv.org%2Fabs%2F2306.16092&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | arXiv |
+| L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search | L-MARS | 2025-08 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Farxiv.org%2Fabs%2F2509.00761&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | arXiv |
+| PAKTON: A Multi-Agent Framework for Question Answering in Long Legal Agreements | PAKTON | 2025-11 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Faclanthology.org%2F2025.emnlp-main.403%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | EMNLP 2025 |
+| AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation | AgentCourt | 2024-11 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Faclanthology.org%2F2024.findings-emnlp.549%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | Findings of EMNLP 2024 |
+| LAW: Legal Agentic Workflows for Custody and Fund Services Contracts | LAW | 2025-01 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Faclanthology.org%2F2025.coling-industry.50%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | COLING 2025 Industry Track |
+| Law in Silico: Simulating Legal Society with LLM-Based Agents | Law in Silico | 2025-10 | [Paper](sslocal://flow/file_open?url=https%3A%2F%2Farxiv.org%2Fabs%2F2510.24442&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | arXiv |
 
 ---
 
@@ -465,209 +151,44 @@
 <a id="information-technology"></a>
 
 ## 💻 Information Technology
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">DeepSeek-Coder-V2</td>
-    <td style="white-space:nowrap;">Code LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">WizardCoder: Evol-Instruct for Code LLMs</td>
-    <td style="white-space:nowrap;">Code LLM</td>
-    <td style="white-space:nowrap;">2023</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">CodeRL: Pretraining + RL for Code Generation</td>
-    <td style="white-space:nowrap;">Code LLM + RL</td>
-    <td style="white-space:nowrap;">2022</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">PPOCoder: Execution-based Code Generation</td>
-    <td style="white-space:nowrap;">Code LLM + RL</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">StepCoder: RL from Compiler Feedback</td>
-    <td style="white-space:nowrap;">Code LLM + RL</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">CodeRL+: Execution Semantics Alignment</td>
-    <td style="white-space:nowrap;">Code LLM + RL</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Process-Supervised RL for Code Generation</td>
-    <td style="white-space:nowrap;">Code LLM + RL</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Teaching LLMs to Self-Debug</td>
-    <td style="white-space:nowrap;">Code LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">Revisit Self-Debugging with Self-Generated Tests</td>
-    <td style="white-space:nowrap;">Code LLM</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">PyCapsule: LLM Guided Self-Debugging</td>
-    <td style="white-space:nowrap;">Code LLM</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">ChatDev: Communicative Agents for Software Development</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">MetaGPT: Multi-Agent Collaborative Programming</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">MapCoder: Multi-Agent Code for Competitive Problems</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2024</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">MapCoder-Lite: Multi-Agent in Small LLM</td>
-    <td style="white-space:nowrap;">Multi-Agent LLM</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">CodePlan: Repository-level Coding and Planning</td>
-    <td style="white-space:nowrap;">Code Agent</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">SWE-Gym: Training Software Engineering Agents</td>
-    <td style="white-space:nowrap;">SWE Agent</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">AgentGen: Enhancing Planning for LLM Agents</td>
-    <td style="white-space:nowrap;">LLM Agent</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">R2E-Gym: Procedural Environments for SWE Agents</td>
-    <td style="white-space:nowrap;">SWE Agent</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">DeepSWE: RL Scaling for Coding Agents</td>
-    <td style="white-space:nowrap;">SWE Agent</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">RepoForge: End-to-End Data for SWE Agent Training</td>
-    <td style="white-space:nowrap;">SWE Agent</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| DeepSeek-Coder-V2 | Code LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| WizardCoder: Evol-Instruct for Code LLMs | Code LLM | 2023 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| CodeRL: Pretraining + RL for Code Generation | Code LLM + RL | 2022 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| PPOCoder: Execution-based Code Generation | Code LLM + RL | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| StepCoder: RL from Compiler Feedback | Code LLM + RL | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| CodeRL+: Execution Semantics Alignment | Code LLM + RL | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Process-Supervised RL for Code Generation | Code LLM + RL | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Teaching LLMs to Self-Debug | Code LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| Revisit Self-Debugging with Self-Generated Tests | Code LLM | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| PyCapsule: LLM Guided Self-Debugging | Code LLM | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| ChatDev: Communicative Agents for Software Development | Multi-Agent LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| MetaGPT: Multi-Agent Collaborative Programming | Multi-Agent LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| MapCoder: Multi-Agent Code for Competitive Problems | Multi-Agent LLM | 2024 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| MapCoder-Lite: Multi-Agent in Small LLM | Multi-Agent LLM | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| CodePlan: Repository-level Coding and Planning | Code Agent | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| SWE-Gym: Training Software Engineering Agents | SWE Agent | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| AgentGen: Enhancing Planning for LLM Agents | LLM Agent | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| R2E-Gym: Procedural Environments for SWE Agents | SWE Agent | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| DeepSWE: RL Scaling for Coding Agents | SWE Agent | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| RepoForge: End-to-End Data for SWE Agent Training | SWE Agent | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 <a id="finance"></a>
 
 ## 💰 Finance
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 <a id="medical"></a>
 
 ## 🩺 Medical
-<table>
-  <tr>
-    <th style="max-width:300px; word-wrap:break-word; text-align:left;">Title</th>
-    <th style="white-space:nowrap; text-align:left;">Model</th>
-    <th style="white-space:nowrap; text-align:left;">Date</th>
-    <th style="white-space:nowrap; text-align:left;">Link</th>
-    <th style="white-space:nowrap; text-align:left;">Venue</th>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-  <tr>
-    <td style="max-width:300px; word-wrap:break-word;">TBD</td>
-    <td style="white-space:nowrap;">TBD</td>
-    <td style="white-space:nowrap;">2025</td>
-    <td style="white-space:nowrap;"><a href="#">Paper</a></td>
-    <td style="white-space:nowrap;">TBD</td>
-  </tr>
-</table>
+| Title | Model | Date | Link | Venue |
+| ----- | ----- | ---- | ---- | ----- |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
+| TBD | TBD | 2025 | [Paper](sslocal://flow/file_open?url=%23&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | TBD |
 
 ---
 
