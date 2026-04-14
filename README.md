@@ -1,4 +1,3 @@
-重新输出
 <div align="center">
 
 # AI for Productivity Survey
