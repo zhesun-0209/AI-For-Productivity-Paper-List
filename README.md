@@ -73,8 +73,11 @@
   <img src="figures/stages.png" alt="Stages of AI for Productivity" width="95%">
 </p>
 
-> **Stage description placeholder**  
-> placeholder
+> A four-stage framework for AI-driven productivity evolution:
+- **Conversational Assistant**: Passive, single-turn informational tool, limited to preparatory assistance, fully dependent on human execution.
+- **Reactive Operator**: Automates narrow, repetitive tasks, substituting manual labor but requiring constant human oversight and error correction.
+- **Adaptive Coordinator**: Manages complex workflows, coordinates agents, and scales team-level capability, but relies on human-defined goals and requirements.
+- **Self-Governing Production System**: Autonomous ecosystem that translates abstract goals into actionable plans, orchestrates multi-agent systems, and expands the production frontier, with human oversight focused on strategic alignment and safety.
 
 ---
 
