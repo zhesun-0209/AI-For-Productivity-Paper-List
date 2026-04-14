@@ -194,11 +194,11 @@
 | ----- | ----- | ---- | ----- |
 | [LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model](https://arxiv.org/abs/2406.04614) | LawGPT | 06/2024 | arXiv |
 | [Lawyer LLaMA Technical Report](https://arxiv.org/abs/2305.15062) | Lawyer LLaMA | 05/2023 | arXiv |
-| [InternLM-Law: An Open-Sourced Chinese Legal Large Language Model](https://aclanthology.org/2025.coling-main.629/) | InternLM-Law | 01/2025 | COLING 2025 |
-| [DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services](https://arxiv.org/abs/2309.11325) | Disc-LawLLM | 09/2023 | arXiv |
+| [InternLM-Law: An Open-Sourced Chinese Legal Large Language Model](https://aclanthology.org/2025.coling-main.629/) | InternLM‑Law | 01/2025 | COLING 2025 |
+| [DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services](https://arxiv.org/abs/2309.11325) | Disc‑LawLLM | 09/2023 | arXiv |
 | [SaulLM-7B: A Pioneering Large Language Model for Law](https://arxiv.org/abs/2403.03883) | SaulLM | 03/2024 | arXiv |
 | [ChatLaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model](https://arxiv.org/abs/2306.16092) | ChatLaw | 06/2023 | arXiv |
-| [L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search](https://arxiv.org/abs/2509.00761) | L-MARS | 08/2025 | arXiv |
+| [L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search](https://arxiv.org/abs/2509.00761) | L‑MARS | 08/2025 | arXiv |
 | [PAKTON: A Multi-Agent Framework for Question Answering in Long Legal Agreements](https://aclanthology.org/2025.emnlp-main.403/) | PAKTON | 11/2025 | EMNLP 2025 |
 | [AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation](https://aclanthology.org/2024.findings-emnlp.549/) | AgentCourt | 11/2024 | Findings of EMNLP 2024 |
 | [LAW: Legal Agentic Workflows for Custody and Fund Services Contracts](https://aclanthology.org/2025.coling-industry.50/) | LAW | 01/2025 | COLING 2025 Industry Track |
