@@ -48,11 +48,11 @@
 ## 🏭 Manufacturing
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -84,11 +84,11 @@
 ## 🌾 Agriculture
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -120,11 +120,11 @@
 ## 🏠 Real Estate
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -170,11 +170,11 @@
 ## 🏛️ Government and Public Administration
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -238,11 +238,11 @@
 ## 🛍️ Trade
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -274,11 +274,11 @@
 ## 📰 Media
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -394,11 +394,11 @@
 ## 🎓 Education
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -430,11 +430,11 @@
 ## ⚖️ Law
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -533,11 +533,11 @@
 ## 💻 Information Technology
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -695,11 +695,11 @@
 ## 💰 Finance
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -731,11 +731,11 @@
 ## 🩺 Medical
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
-    <col style="width: 12%">
-    <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
+    <col style="width: 10%">
+    <col style="width: 8%">
+    <col style="width: 25%">
   </colgroup>
   <thead>
     <tr>
@@ -843,11 +843,11 @@ Please feel free to open an issue or submit a pull request.
 ## 🏭 Manufacturing
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -879,11 +879,11 @@ Please feel free to open an issue or submit a pull request.
 ## 🌾 Agriculture
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -915,11 +915,11 @@ Please feel free to open an issue or submit a pull request.
 ## 🏠 Real Estate
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -965,11 +965,11 @@ Please feel free to open an issue or submit a pull request.
 ## 🏛️ Government and Public Administration
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -1033,11 +1033,11 @@ Please feel free to open an issue or submit a pull request.
 ## 🛍️ Trade
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -1069,11 +1069,11 @@ Please feel free to open an issue or submit a pull request.
 ## 📰 Media
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -1189,11 +1189,11 @@ Please feel free to open an issue or submit a pull request.
 ## 🎓 Education
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -1225,11 +1225,11 @@ Please feel free to open an issue or submit a pull request.
 ## ⚖️ Law
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -1328,11 +1328,11 @@ Please feel free to open an issue or submit a pull request.
 ## 💻 Information Technology
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -1490,11 +1490,11 @@ Please feel free to open an issue or submit a pull request.
 ## 💰 Finance
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
@@ -1526,11 +1526,11 @@ Please feel free to open an issue or submit a pull request.
 ## 🩺 Medical
 <table>
   <colgroup>
-    <col style="width: 30%">
-    <col style="width: 28%">
+    <col style="width: 35%">
+    <col style="width: 22%">
     <col style="width: 12%">
     <col style="width: 12%">
-    <col style="width: 28%">
+    <col style="width: 22%">
   </colgroup>
   <thead>
     <tr>
