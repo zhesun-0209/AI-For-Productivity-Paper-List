@@ -154,7 +154,7 @@ In this phase, AI penetration remains limited, with applications focused on effi
 In this phase, AI achieves deeper penetration, delivering dual-mechanism gains: enhanced operational efficiency and expanded business scope, while still requiring human oversight for critical decisions. The figure outlines the AI progression path, efficiency gains, and core challenges across four representative sectors:
 - 🛍️ **Trade**: Document processing → compliance assistance → agentic workflow → business operation simulation
 - 📰 **Media**: Structured generation → tool-using verification → multi-agent content production → towards multimedia integration
-- 🎓 **Education*: Generic tutoring → pedagogical agents → multi-agent class simulation → evolving learning systems
+- 🎓 **Education**: Generic tutoring → pedagogical agents → multi-agent class simulation → evolving learning systems
 - ⚖️ **Law**: General legal assistance → domain-specific case analysis → multi-step argumentation agent → multi-agent legal systems
 
 <a id="trade"></a>
@@ -224,8 +224,12 @@ In this phase, AI achieves deeper penetration, delivering dual-mechanism gains: 
   <img src="figures/widespread.png" alt="Widespread-diffusion industries" width="95%">
 </p>
 
-> **Widespread-diffusion introduction placeholder**  
-> placeholder
+**Widespread industries** represent the mature stage of AI adoption, where Agentic AI fully evolves into a **self-governing production system** with deep workflow integration, delivering dual-mechanism productivity gains under governed autonomy.
+
+In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous operation across complex, multi-step workflows while maintaining regulatory and ethical accountability. The figure outlines cutting-edge AI applications and expansion mechanisms across three representative sectors:
+- 💻 **Information Technology**: Auto coding systems, iterative debugging, repository-level engineering
+- 💰 **Finance**: Investment and trading systems, banking operations, insurance processing
+- 🏥 **Medical**: Clinical systems, pharma R&D, public health services
 
 <a id="information-technology"></a>
 
