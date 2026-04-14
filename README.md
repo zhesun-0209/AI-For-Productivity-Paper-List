@@ -20,7 +20,6 @@
 ---
 
 ## 📚 Table of Contents
-- [🧭 Overview](#-overview)
 - [🌱 Nascent-diffusion Industries](#-nascent-diffusion-industries)
   - [🏭 Manufacturing](#-manufacturing)
   - [🌾 Agriculture](#-agriculture)
@@ -37,25 +36,8 @@
   - [🩺 Medical](#-medical)
 - [📖 Citation](#-citation)
 - [🤝 Contribution](#-contribution)
-
----
-
-## 🧭 Overview
-This repository summarizes recent advances in **AI-driven productivity enhancement** across different industries.  
-To better reflect the real-world adoption trajectory of AI systems, we organize papers into three diffusion stages:
-
-- **🌱 Nascent-diffusion industries**: industries where AI adoption is still emerging and applications remain exploratory.
-- **📈 Growing-diffusion industries**: industries with expanding adoption and increasing integration into practical workflows.
-- **🌍 Widespread-diffusion industries**: industries where AI has already shown broad applicability and stronger ecosystem maturity.
-
-Each paper entry includes the following metadata:
-
-- **Title**
-- **Model**
-- **Date**
-- **Link**
-- **Venue**
-
+  - [🌟 Star History](#-star-history)
+  - [👥 Contributors](#-contributors)
 ---
 
 # 🌱 Nascent-diffusion Industries
@@ -791,3 +773,24 @@ If you find this repository useful, please cite our survey:
   journal={},
   year={2026}
 }
+
+## 🤝 Contribution
+Contributions are welcome!
+
+If you would like to improve this repository, you are welcome to:
+- add missing papers,
+- revise incorrect metadata,
+- refine domain categorization,
+- update paper links and venue information.
+
+Please feel free to open an issue or submit a pull request.
+
+### 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zhesun-0209/AI-For-Productivity-Paper-List&type=Date)](https://www.star-history.com/#zhesun-0209/AI-For-Productivity-Paper-List&Date)
+
+### 👥 Contributors
+
+<a href="https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zhesun-0209/AI-For-Productivity-Paper-List" />
+</a>
