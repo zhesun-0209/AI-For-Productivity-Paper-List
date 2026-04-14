@@ -61,6 +61,7 @@
 <a id="manufacturing"></a>
 
 ## 🏭 Manufacturing
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [TBD](#) | TBD | 2025 | TBD |
@@ -69,6 +70,7 @@
 <a id="agriculture"></a>
 
 ## 🌾 Agriculture
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [AgroLLM](#) | LLM + RAG | 2025 | TBD |
@@ -77,6 +79,7 @@
 <a id="real-estate"></a>
 
 ## 🏠 Real Estate
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [Utilizing Large Language Models for Information Extraction from Real Estate Transactions](#) | TBD | 2024 | TBD |
@@ -87,6 +90,7 @@
 <a id="government-and-public-administration"></a>
 
 ## 🏛️ Government and Public Administration
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents](#) | TBD | 2025 | TBD |
@@ -105,6 +109,7 @@
 <a id="trade"></a>
 
 ## 🛍️ Trade
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [TBD](#) | TBD | 2025 | TBD |
@@ -113,6 +118,7 @@
 <a id="media"></a>
 
 ## 📰 Media
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [SANCTUARY: Evidence-based Automated Fact Checking](#) | TBD | 2025 | TBD |
@@ -133,6 +139,7 @@
 <a id="education"></a>
 
 ## 🎓 Education
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [TBD](#) | TBD | 2025 | TBD |
@@ -141,6 +148,7 @@
 <a id="law"></a>
 
 ## ⚖️ Law
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model](https://arxiv.org/abs/2406.04614) | LawGPT | 2024-06 | arXiv |
@@ -164,6 +172,7 @@
 <a id="information-technology"></a>
 
 ## 💻 Information Technology
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [DeepSeek-Coder-V2](#) | TBD | 2024 | TBD |
@@ -190,6 +199,7 @@
 <a id="finance"></a>
 
 ## 💰 Finance
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [TBD](#) | TBD | 2025 | TBD |
@@ -198,6 +208,7 @@
 <a id="medical"></a>
 
 ## 🩺 Medical
+
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
 | [TBD](#) | TBD | 2025 | TBD |
