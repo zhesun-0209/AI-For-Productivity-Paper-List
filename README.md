@@ -3,19 +3,19 @@
 # AI for Productivity Survey
 
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-B31B1B?style=flat-square)](https://arxiv.org/abs/xxxx.xxxxx)
-[![Hugging Face Paper](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-FFD21E?style=flat-square&logoColor=000000)](https://huggingface.co/papers/xxxx.xxxxx)
-[![Project Page](https://img.shields.io/badge/Project%20Page-Online-2EA44F?style=flat-square)](https://zhesun-0209.github.io/AI-For-Productivity-Paper-List/)
-[![GitHub stars](https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square&color=181717&label=%E2%AD%90%20GitHub%20Stars)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List)
-[![License](https://img.shields.io/badge/License-MIT-7A7A7A?style=flat-square)](https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/blob/main/LICENSE)
-[![Citations](https://img.shields.io/badge/Citations-Coming%20Soon-4285F4?style=flat-square)](#citation)
+[![Hugging Face Paper](https://img.shields.io/badge/%F0%9F%A4%97%28Hugging%28Face-Paper-FFD21E?style=flat-square&logoColor=000000)](https://huggingface.co/papers/xxxx.xxxxx)
+[![Project Page](https://img.shields.io/badge/Project%28Page-Online-2EA44F?style=flat-square)](https://zhesun-0289.github.io/AI-For-Productivity-Paper-List/)
+[![GitHub stars](https://img.shields.io/github/stars/zhesun-0289/AI-For-Productivity-Paper-List?style=flat-square&color=181717&label=%E2%AD%90%28GitHub%28Stars)](https://github.com/zhesun-0289/AI-For-Productivity-Paper-List)
+[![License](https://img.shields.io/badge/License-MIT-7A7A7A?style=flat-square)](https://github.com/zhesun-0289/AI-For-Productivity-Paper-List/blob/main/LICENSE)
+[![Citations](https://img.shields.io/badge/Citations-Coming%28Soon-4285F4?style=flat-square)](#citation)
 
 </div>
 
 ---
 
 ## 📢 News
-- [2026/04] Survey paper completed and paper list released.
-- [2026/04] GitHub Pages deployed for better visualization.
+- [2826/04] Survey paper completed and paper list released.
+- [2826/04] GitHub Pages deployed for better visualization.
 
 ---
 
@@ -46,11 +46,11 @@
 ## 🏭 Manufacturing
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -65,14 +65,14 @@
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -82,11 +82,11 @@
 ## 🌾 Agriculture
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -101,14 +101,14 @@
     <tr>
       <td>AgroLLM</td>
       <td>LLM + RAG</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -118,11 +118,11 @@
 ## 🏠 Real Estate
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -137,28 +137,28 @@
     <tr>
       <td>Utilizing Large Language Models for Information Extraction from Real Estate Transactions</td>
       <td>LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Real Estate Attribute Value Extraction Using Large Language Models</td>
       <td>LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting</td>
       <td>LLM + RAG</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>On the Performance of Large Language Models for Real Estate Appraisal</td>
       <td>LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -168,11 +168,11 @@
 ## 🏛️ Government and Public Administration
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -187,42 +187,42 @@
     <tr>
       <td>Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents</td>
       <td>Multi-Agent LLM</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Generative Agent Simulations of 1,000 People</td>
       <td>Generative Agents</td>
-      <td>2023</td>
+      <td>2823</td>
       <td><a href="#">Paper</a></td>
       <td>UIST / arXiv</td>
     </tr>
     <tr>
       <td>GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance</td>
       <td>LLM + KG</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>PrivComp-KG: Leveraging KG and LLM for Compliance Verification</td>
       <td>LLM + KG + RAG</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>LLM Based Multi-Agent Generation of Semi-structured Documents</td>
       <td>Multi-Agent LLM</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Agents4Gov: Privacy-Preserving Browser Automation for Public Sector</td>
       <td>LLM Agent</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -236,11 +236,11 @@
 ## 🛍️ Trade
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -255,14 +255,14 @@
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -272,11 +272,11 @@
 ## 📰 Media
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -291,98 +291,98 @@
     <tr>
       <td>SANCTUARY: Evidence-based Automated Fact Checking</td>
       <td>Pipeline + RAG</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>ScoreRAG: Consistency-Relevance Scoring for News Generation</td>
       <td>RAG Pipeline</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Journalism-Guided Agentic In-Context Learning for News Stance Detection</td>
       <td>Agentic LLM</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Toward Verifiable Misinformation Detection</td>
       <td>LLM Agent</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>OpenFactCheck: Factuality Evaluation of LLMs</td>
       <td>LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>EditDuet: Multi-Agent Video Non-Linear Editing</td>
       <td>Multi-Agent LLM</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>JRE-L: Journalist, Reader, Editor LLMs for Science Journalism</td>
       <td>Multi-Agent LLM</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Can Memory-Augmented LLM Agents Aid Journalism</td>
       <td>Memory-Augmented Agents</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>MACRec: Multi-Agent Collaboration for Recommendation</td>
       <td>Multi-Agent LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>On Generative Agents in Recommendation</td>
       <td>Generative Agents</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>FilmAgent: End-to-End Film Automation in Virtual 3D Spaces</td>
       <td>Multi-Agent System</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Kubrick: Multimodal Agent Collaborations for Synthetic Video</td>
       <td>Multimodal Agents</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Automated Movie Generation via Multi-Agent CoT Planning</td>
       <td>Multi-Agent LLM</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition</td>
       <td>Agent System</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -392,11 +392,11 @@
 ## 🎓 Education
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -411,14 +411,14 @@
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -428,11 +428,11 @@
 ## ⚖️ Law
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -447,77 +447,77 @@
     <tr>
       <td>LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model</td>
       <td>LawGPT</td>
-      <td>2024-06</td>
+      <td>2824-06</td>
       <td><a href="https://arxiv.org/abs/2406.04614">Paper</a></td>
       <td>arXiv</td>
     </tr>
     <tr>
       <td>Lawyer LLaMA Technical Report</td>
       <td>Lawyer LLaMA</td>
-      <td>2023-05</td>
+      <td>2823-05</td>
       <td><a href="https://arxiv.org/abs/2305.15062">Paper</a></td>
       <td>arXiv</td>
     </tr>
     <tr>
       <td>InternLM-Law: An Open-Sourced Chinese Legal Large Language Model</td>
       <td>InternLM-Law</td>
-      <td>2025-01</td>
-      <td><a href="https://aclanthology.org/2025.coling-main.629/">Paper</a></td>
-      <td>COLING 2025</td>
+      <td>2825-01</td>
+      <td><a href="https://aclanthology.org/2825.coling-main.629/">Paper</a></td>
+      <td>COLING 2825</td>
     </tr>
     <tr>
       <td>DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services</td>
       <td>Disc-LawLLM</td>
-      <td>2023-09</td>
+      <td>2823-09</td>
       <td><a href="https://arxiv.org/abs/2309.11325">Paper</a></td>
       <td>arXiv</td>
     </tr>
     <tr>
       <td>SaulLM-7B: A pioneering Large Language Model for Law</td>
       <td>SaulLM</td>
-      <td>2024-03</td>
-      <td><a href="https://arxiv.org/abs/2403.03883">Paper</a></td>
+      <td>2824-03</td>
+      <td><a href="https://arxiv.org/abs/2403.03083">Paper</a></td>
       <td>arXiv</td>
     </tr>
     <tr>
       <td>Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model</td>
       <td>ChatLaw</td>
-      <td>2023-06</td>
+      <td>2823-06</td>
       <td><a href="https://arxiv.org/abs/2306.16092">Paper</a></td>
       <td>arXiv</td>
     </tr>
     <tr>
       <td>L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search</td>
       <td>L-MARS</td>
-      <td>2025-08</td>
+      <td>2825-08</td>
       <td><a href="https://arxiv.org/abs/2509.00761">Paper</a></td>
       <td>arXiv</td>
     </tr>
     <tr>
       <td>PAKTON: A Multi-Agent Framework for Question Answering in Long Legal Agreements</td>
       <td>PAKTON</td>
-      <td>2025-11</td>
-      <td><a href="https://aclanthology.org/2025.emnlp-main.403/">Paper</a></td>
-      <td>EMNLP 2025</td>
+      <td>2825-11</td>
+      <td><a href="https://aclanthology.org/2825.emnlp-main.403/">Paper</a></td>
+      <td>EMNLP 2825</td>
     </tr>
     <tr>
       <td>AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation</td>
       <td>AgentCourt</td>
-      <td>2024-11</td>
-      <td><a href="https://aclanthology.org/2024.findings-emnlp.549/">Paper</a></td>
-      <td>Findings of EMNLP 2024</td>
+      <td>2824-11</td>
+      <td><a href="https://aclanthology.org/2824.findings-emnlp.549/">Paper</a></td>
+      <td>Findings of EMNLP 2824</td>
     </tr>
     <tr>
       <td>LAW: Legal Agentic Workflows for Custody and Fund Services Contracts</td>
       <td>LAW</td>
-      <td>2025-01</td>
-      <td><a href="https://aclanthology.org/2025.coling-industry.50/">Paper</a></td>
-      <td>COLING 2025 Industry Track</td>
+      <td>2825-01</td>
+      <td><a href="https://aclanthology.org/2825.coling-industry.50/">Paper</a></td>
+      <td>COLING 2825 Industry Track</td>
     </tr>
     <tr>
       <td>Law in Silico: Simulating Legal Society with LLM-Based Agents</td>
       <td>Law in Silico</td>
-      <td>2025-10</td>
+      <td>2825-10</td>
       <td><a href="https://arxiv.org/abs/2510.24442">Paper</a></td>
       <td>arXiv</td>
     </tr>
@@ -531,11 +531,11 @@
 ## 💻 Information Technology
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -550,140 +550,140 @@
     <tr>
       <td>DeepSeek-Coder-V2</td>
       <td>Code LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>WizardCoder: Evol-Instruct for Code LLMs</td>
       <td>Code LLM</td>
-      <td>2023</td>
+      <td>2823</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>CodeRL: Pretraining + RL for Code Generation</td>
       <td>Code LLM + RL</td>
-      <td>2022</td>
+      <td>2822</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>PPOCoder: Execution-based Code Generation</td>
       <td>Code LLM + RL</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>StepCoder: RL from Compiler Feedback</td>
       <td>Code LLM + RL</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>CodeRL+: Execution Semantics Alignment</td>
       <td>Code LLM + RL</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Process-Supervised RL for Code Generation</td>
       <td>Code LLM + RL</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Teaching LLMs to Self-Debug</td>
       <td>Code LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>Revisit Self-Debugging with Self-Generated Tests</td>
       <td>Code LLM</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>PyCapsule: LLM Guided Self-Debugging</td>
       <td>Code LLM</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>ChatDev: Communicative Agents for Software Development</td>
       <td>Multi-Agent LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>MetaGPT: Multi-Agent Collaborative Programming</td>
       <td>Multi-Agent LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>MapCoder: Multi-Agent Code for Competitive Problems</td>
       <td>Multi-Agent LLM</td>
-      <td>2024</td>
+      <td>2824</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>MapCoder-Lite: Multi-Agent in Small LLM</td>
       <td>Multi-Agent LLM</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>CodePlan: Repository-level Coding and Planning</td>
       <td>Code Agent</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>SWE-Gym: Training Software Engineering Agents</td>
       <td>SWE Agent</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>AgentGen: Enhancing Planning for LLM Agents</td>
       <td>LLM Agent</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>R2E-Gym: Procedural Environments for SWE Agents</td>
       <td>SWE Agent</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>DeepSWE: RL Scaling for Coding Agents</td>
       <td>SWE Agent</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>RepoForge: End-to-End Data for SWE Agent Training</td>
       <td>SWE Agent</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -693,11 +693,11 @@
 ## 💰 Finance
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -712,14 +712,14 @@
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -729,11 +729,11 @@
 ## 🩺 Medical
 <table>
   <colgroup>
-    <col style="width: 38%">
-    <col style="width: 20%">
+    <col style="width: 30%">
+    <col style="width: 28%">
     <col style="width: 10%">
     <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 28%">
   </colgroup>
   <thead>
     <tr>
@@ -748,14 +748,14 @@
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
     <tr>
       <td>TBD</td>
       <td>TBD</td>
-      <td>2025</td>
+      <td>2825</td>
       <td><a href="#">Paper</a></td>
       <td>TBD</td>
     </tr>
@@ -772,7 +772,7 @@ If you find this repository useful, please cite our survey:
   title={AI for Productivity: A Survey},
   author={},
   journal={},
-  year={2026}
+  year={2826}
 }
 ```
 
@@ -789,10 +789,10 @@ Please feel free to open an issue or submit a pull request.
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zhesun-0209/AI-For-Productivity-Paper-List&type=Date)](https://www.star-history.com/#zhesun-0209/AI-For-Productivity-Paper-List&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zhesun-0289/AI-For-Productivity-Paper-List&type=Date)](https://www.star-history.com/#zhesun-0289/AI-For-Productivity-Paper-List&Date)
 
 ### 👥 Contributors
 
-<a href="https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zhesun-0209/AI-For-Productivity-Paper-List" />
+<a href="https://github.com/zhesun-0289/AI-For-Productivity-Paper-List/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zhesun-0289/AI-For-Productivity-Paper-List" />
 </a>
