@@ -192,8 +192,8 @@
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model](https://arxiv.org/abs/2406.04614) | LawGPT | 06/2024 | arXiv |
-| [Lawyer LLaMA Technical Report](https://arxiv.org/abs/2305.15062) | Lawyer&nbsp;LLaMA | 05/2023 | arXiv |
+| [LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model](https://doi.org/10.48550/arXiv.2406.04614) | LawGPT | 06/2024 | arXiv |
+| [Lawyer LLaMA Technical Report](https://doi.org/10.48550/arXiv.2305.15062) | Lawyer&nbsp;LLaMA | 05/2023 | arXiv |
 | [InternLM-Law: An Open-Sourced Chinese Legal Large Language Model](https://aclanthology.org/2025.coling-main.629/) | InternLM‑Law | 01/2025 | COLING 2025 |
 | [DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services](https://arxiv.org/abs/2309.11325) | Disc‑LawLLM | 09/2023 | arXiv |
 | [SaulLM-7B: A Pioneering Large Language Model for Law](https://arxiv.org/abs/2403.03883) | SaulLM | 03/2024 | arXiv |
