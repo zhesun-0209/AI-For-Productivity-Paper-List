@@ -20,749 +20,779 @@
 ---
 
 ## 📚 Table of Contents
-- [🌱 Nascent-diffusion Industries](sslocal://flow/file_open?url=%23-nascent-diffusion-industries&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [🏭 Manufacturing](sslocal://flow/file_open?url=%23-manufacturing&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [🌾 Agriculture](sslocal://flow/file_open?url=%23-agriculture&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [🏠 Real Estate](sslocal://flow/file_open?url=%23-real-estate&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [🏛️ Government and Public Administration](sslocal://flow/file_open?url=%23-government-and-public-administration&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [📈 Growing-diffusion Industries](sslocal://flow/file_open?url=%23-growing-diffusion-industries&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [🛍️ Trade](sslocal://flow/file_open?url=%23-trade&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [📰 Media](sslocal://flow/file_open?url=%23-media&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [🎓 Education](sslocal://flow/file_open?url=%23-education&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [⚖️ Law](sslocal://flow/file_open?url=%23-law&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [🌍 Widespread-diffusion Industries](sslocal://flow/file_open?url=%23-widespread-diffusion-industries&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [💻 Information Technology](sslocal://flow/file_open?url=%23-information-technology&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [💰 Finance](sslocal://flow/file_open?url=%23-finance&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [🩺 Medical](sslocal://flow/file_open?url=%23-medical&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [📖 Citation](sslocal://flow/file_open?url=%23-citation&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [🤝 Contribution](sslocal://flow/file_open?url=%23-contribution&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [🌟 Star History](sslocal://flow/file_open?url=%23-star-history&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-  - [👥 Contributors](sslocal://flow/file_open?url=%23-contributors&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [🌱 Nascent-diffusion Industries](#nascent-diffusion-industries)
+  - [🏭 Manufacturing](#manufacturing)
+  - [🌾 Agriculture](#agriculture)
+  - [🏠 Real Estate](#real-estate)
+  - [🏛️ Government and Public Administration](#government-and-public-administration)
+- [📈 Growing-diffusion Industries](#growing-diffusion-industries)
+  - [🛍️ Trade](#trade)
+  - [📰 Media](#media)
+  - [🎓 Education](#education)
+  - [⚖️ Law](#law)
+- [🌍 Widespread-diffusion Industries](#widespread-diffusion-industries)
+  - [💻 Information Technology](#information-technology)
+  - [💰 Finance](#finance)
+  - [🩺 Medical](#medical)
+- [📖 Citation](#citation)
+- [🤝 Contribution](#contribution)
+  - [🌟 Star History](#star-history)
+  - [👥 Contributors](#contributors)
 
 ---
+
+<a id="nascent-diffusion-industries"></a>
 
 # 🌱 Nascent-diffusion Industries
 
+<a id="manufacturing"></a>
+
 ## 🏭 Manufacturing
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
+
+<a id="agriculture"></a>
 
 ## 🌾 Agriculture
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">AgroLLM</td>
-      <td style="white-space: nowrap;">LLM + RAG</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">AgroLLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM + RAG</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
+
+<a id="real-estate"></a>
 
 ## 🏠 Real Estate
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Utilizing Large Language Models for Information Extraction from Real Estate Transactions</td>
-      <td style="white-space: nowrap;">LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Utilizing Large Language Models for Information Extraction from Real Estate Transactions</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Real Estate Attribute Value Extraction Using Large Language Models</td>
-      <td style="white-space: nowrap;">LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Real Estate Attribute Value Extraction Using Large Language Models</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting</td>
-      <td style="white-space: nowrap;">LLM + RAG</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM + RAG</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">On the Performance of Large Language Models for Real Estate Appraisal</td>
-      <td style="white-space: nowrap;">LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">On the Performance of Large Language Models for Real Estate Appraisal</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
 
+<a id="government-and-public-administration"></a>
+
 ## 🏛️ Government and Public Administration
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Generative Agent Simulations of 1,000 People</td>
-      <td style="white-space: nowrap;">Generative Agents</td>
-      <td style="white-space: nowrap;">2023</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">UIST / arXiv</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Generative Agent Simulations of 1,000 People</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Generative Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2023</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">UIST / arXiv</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance</td>
-      <td style="white-space: nowrap;">LLM + KG</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM + KG</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">PrivComp-KG: Leveraging KG and LLM for Compliance Verification</td>
-      <td style="white-space: nowrap;">LLM + KG + RAG</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">PrivComp-KG: Leveraging KG and LLM for Compliance Verification</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM + KG + RAG</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">LLM Based Multi-Agent Generation of Semi-structured Documents</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">LLM Based Multi-Agent Generation of Semi-structured Documents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Agents4Gov: Privacy-Preserving Browser Automation for Public Sector</td>
-      <td style="white-space: nowrap;">LLM Agent</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Agents4Gov: Privacy-Preserving Browser Automation for Public Sector</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM Agent</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
 
 ---
+
+<a id="growing-diffusion-industries"></a>
 
 # 📈 Growing-diffusion Industries
 
+<a id="trade"></a>
+
 ## 🛍️ Trade
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
+
+<a id="media"></a>
 
 ## 📰 Media
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">SANCTUARY: Evidence-based Automated Fact Checking</td>
-      <td style="white-space: nowrap;">Pipeline + RAG</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">SANCTUARY: Evidence-based Automated Fact Checking</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Pipeline + RAG</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">ScoreRAG: Consistency-Relevance Scoring for News Generation</td>
-      <td style="white-space: nowrap;">RAG Pipeline</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">ScoreRAG: Consistency-Relevance Scoring for News Generation</td>
+      <td style="white-space:nowrap; vertical-align:middle;">RAG Pipeline</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Journalism-Guided Agentic In-Context Learning for News Stance Detection</td>
-      <td style="white-space: nowrap;">Agentic LLM</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Journalism-Guided Agentic In-Context Learning for News Stance Detection</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Agentic LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Toward Verifiable Misinformation Detection</td>
-      <td style="white-space: nowrap;">LLM Agent</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Toward Verifiable Misinformation Detection</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM Agent</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">OpenFactCheck: Factuality Evaluation of LLMs</td>
-      <td style="white-space: nowrap;">LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">OpenFactCheck: Factuality Evaluation of LLMs</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">EditDuet: Multi-Agent Video Non-Linear Editing</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">EditDuet: Multi-Agent Video Non-Linear Editing</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">JRE-L: Journalist, Reader, Editor LLMs for Science Journalism</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">JRE-L: Journalist, Reader, Editor LLMs for Science Journalism</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Can Memory-Augmented LLM Agents Aid Journalism</td>
-      <td style="white-space: nowrap;">Memory-Augmented Agents</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Can Memory-Augmented LLM Agents Aid Journalism</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Memory-Augmented Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">MACRec: Multi-Agent Collaboration for Recommendation</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">MACRec: Multi-Agent Collaboration for Recommendation</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">On Generative Agents in Recommendation</td>
-      <td style="white-space: nowrap;">Generative Agents</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">On Generative Agents in Recommendation</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Generative Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">FilmAgent: End-to-End Film Automation in Virtual 3D Spaces</td>
-      <td style="white-space: nowrap;">Multi-Agent System</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">FilmAgent: End-to-End Film Automation in Virtual 3D Spaces</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent System</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Kubrick: Multimodal Agent Collaborations for Synthetic Video</td>
-      <td style="white-space: nowrap;">Multimodal Agents</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Kubrick: Multimodal Agent Collaborations for Synthetic Video</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multimodal Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Automated Movie Generation via Multi-Agent CoT Planning</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Automated Movie Generation via Multi-Agent CoT Planning</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition</td>
-      <td style="white-space: nowrap;">Agent System</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Agent System</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
+
+<a id="education"></a>
 
 ## 🎓 Education
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
 
+<a id="law"></a>
+
 ## ⚖️ Law
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model</td>
-      <td style="white-space: nowrap;">LawGPT</td>
-      <td style="white-space: nowrap;">2024-06</td>
-      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2406.04614">Paper</a></td>
-      <td style="white-space: nowrap;">arXiv</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LawGPT</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024-06</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://arxiv.org/abs/2406.04614">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">arXiv</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Lawyer LLaMA Technical Report</td>
-      <td style="white-space: nowrap;">Lawyer LLaMA</td>
-      <td style="white-space: nowrap;">2023-05</td>
-      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2305.15062">Paper</a></td>
-      <td style="white-space: nowrap;">arXiv</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Lawyer LLaMA Technical Report</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Lawyer LLaMA</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2023-05</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://arxiv.org/abs/2305.15062">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">arXiv</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">InternLM-Law: An Open-Sourced Chinese Legal Large Language Model</td>
-      <td style="white-space: nowrap;">InternLM-Law</td>
-      <td style="white-space: nowrap;">2025-01</td>
-      <td style="white-space: nowrap;"><a href="https://aclanthology.org/2025.coling-main.629/">Paper</a></td>
-      <td style="white-space: nowrap;">COLING 2025</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">InternLM-Law: An Open-Sourced Chinese Legal Large Language Model</td>
+      <td style="white-space:nowrap; vertical-align:middle;">InternLM-Law</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025-01</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://aclanthology.org/2025.coling-main.629/">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">COLING 2025</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services</td>
-      <td style="white-space: nowrap;">Disc-LawLLM</td>
-      <td style="white-space: nowrap;">2023-09</td>
-      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2309.11325">Paper</a></td>
-      <td style="white-space: nowrap;">arXiv</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Disc-LawLLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2023-09</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://arxiv.org/abs/2309.11325">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">arXiv</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">SaulLM-7B: A Pioneering Large Language Model for Law</td>
-      <td style="white-space: nowrap;">SaulLM</td>
-      <td style="white-space: nowrap;">2024-03</td>
-      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2403.03883">Paper</a></td>
-      <td style="white-space: nowrap;">arXiv</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">SaulLM-7B: A Pioneering Large Language Model for Law</td>
+      <td style="white-space:nowrap; vertical-align:middle;">SaulLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024-03</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://arxiv.org/abs/2403.03883">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">arXiv</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">ChatLaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model</td>
-      <td style="white-space: nowrap;">ChatLaw</td>
-      <td style="white-space: nowrap;">2023-06</td>
-      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2306.16092">Paper</a></td>
-      <td style="white-space: nowrap;">arXiv</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">ChatLaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model</td>
+      <td style="white-space:nowrap; vertical-align:middle;">ChatLaw</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2023-06</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://arxiv.org/abs/2306.16092">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">arXiv</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search</td>
-      <td style="white-space: nowrap;">L-MARS</td>
-      <td style="white-space: nowrap;">2025-08</td>
-      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2509.00761">Paper</a></td>
-      <td style="white-space: nowrap;">arXiv</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search</td>
+      <td style="white-space:nowrap; vertical-align:middle;">L-MARS</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025-08</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://arxiv.org/abs/2509.00761">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">arXiv</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">PAKTON: A Multi-Agent Framework for Question Answering in Long Legal Agreements</td>
-      <td style="white-space: nowrap;">PAKTON</td>
-      <td style="white-space: nowrap;">2025-11</td>
-      <td style="white-space: nowrap;"><a href="https://aclanthology.org/2025.emnlp-main.403/">Paper</a></td>
-      <td style="white-space: nowrap;">EMNLP 2025</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">PAKTON: A Multi-Agent Framework for Question Answering in Long Legal Agreements</td>
+      <td style="white-space:nowrap; vertical-align:middle;">PAKTON</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025-11</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://aclanthology.org/2025.emnlp-main.403/">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">EMNLP 2025</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation</td>
-      <td style="white-space: nowrap;">AgentCourt</td>
-      <td style="white-space: nowrap;">2024-11</td>
-      <td style="white-space: nowrap;"><a href="https://aclanthology.org/2024.findings-emnlp.549/">Paper</a></td>
-      <td style="white-space: nowrap;">Findings of EMNLP 2024</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation</td>
+      <td style="white-space:nowrap; vertical-align:middle;">AgentCourt</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024-11</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://aclanthology.org/2024.findings-emnlp.549/">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">Findings of EMNLP 2024</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">LAW: Legal Agentic Workflows for Custody and Fund Services Contracts</td>
-      <td style="white-space: nowrap;">LAW</td>
-      <td style="white-space: nowrap;">2025-01</td>
-      <td style="white-space: nowrap;"><a href="https://aclanthology.org/2025.coling-industry.50/">Paper</a></td>
-      <td style="white-space: nowrap;">COLING 2025 Industry Track</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">LAW: Legal Agentic Workflows for Custody and Fund Services Contracts</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LAW</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025-01</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://aclanthology.org/2025.coling-industry.50/">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">COLING 2025 Industry Track</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Law in Silico: Simulating Legal Society with LLM-Based Agents</td>
-      <td style="white-space: nowrap;">Law in Silico</td>
-      <td style="white-space: nowrap;">2025-10</td>
-      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2510.24442">Paper</a></td>
-      <td style="white-space: nowrap;">arXiv</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Law in Silico: Simulating Legal Society with LLM-Based Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Law in Silico</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025-10</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="https://arxiv.org/abs/2510.24442">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">arXiv</td>
     </tr>
   </tbody>
 </table>
 
 ---
+
+<a id="widespread-diffusion-industries"></a>
 
 # 🌍 Widespread-diffusion Industries
 
+<a id="information-technology"></a>
+
 ## 💻 Information Technology
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">DeepSeek-Coder-V2</td>
-      <td style="white-space: nowrap;">Code LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">DeepSeek-Coder-V2</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">WizardCoder: Evol-Instruct for Code LLMs</td>
-      <td style="white-space: nowrap;">Code LLM</td>
-      <td style="white-space: nowrap;">2023</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">WizardCoder: Evol-Instruct for Code LLMs</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2023</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">CodeRL: Pretraining + RL for Code Generation</td>
-      <td style="white-space: nowrap;">Code LLM + RL</td>
-      <td style="white-space: nowrap;">2022</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">CodeRL: Pretraining + RL for Code Generation</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM + RL</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2022</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">PPOCoder: Execution-based Code Generation</td>
-      <td style="white-space: nowrap;">Code LLM + RL</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">PPOCoder: Execution-based Code Generation</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM + RL</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">StepCoder: RL from Compiler Feedback</td>
-      <td style="white-space: nowrap;">Code LLM + RL</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">StepCoder: RL from Compiler Feedback</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM + RL</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">CodeRL+: Execution Semantics Alignment</td>
-      <td style="white-space: nowrap;">Code LLM + RL</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">CodeRL+: Execution Semantics Alignment</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM + RL</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Process-Supervised RL for Code Generation</td>
-      <td style="white-space: nowrap;">Code LLM + RL</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Process-Supervised RL for Code Generation</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM + RL</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Teaching LLMs to Self-Debug</td>
-      <td style="white-space: nowrap;">Code LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Teaching LLMs to Self-Debug</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">Revisit Self-Debugging with Self-Generated Tests</td>
-      <td style="white-space: nowrap;">Code LLM</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">Revisit Self-Debugging with Self-Generated Tests</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">PyCapsule: LLM Guided Self-Debugging</td>
-      <td style="white-space: nowrap;">Code LLM</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">PyCapsule: LLM Guided Self-Debugging</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">ChatDev: Communicative Agents for Software Development</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">ChatDev: Communicative Agents for Software Development</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">MetaGPT: Multi-Agent Collaborative Programming</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">MetaGPT: Multi-Agent Collaborative Programming</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">MapCoder: Multi-Agent Code for Competitive Problems</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2024</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">MapCoder: Multi-Agent Code for Competitive Problems</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2024</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">MapCoder-Lite: Multi-Agent in Small LLM</td>
-      <td style="white-space: nowrap;">Multi-Agent LLM</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">MapCoder-Lite: Multi-Agent in Small LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Multi-Agent LLM</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">CodePlan: Repository-level Coding and Planning</td>
-      <td style="white-space: nowrap;">Code Agent</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">CodePlan: Repository-level Coding and Planning</td>
+      <td style="white-space:nowrap; vertical-align:middle;">Code Agent</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">SWE-Gym: Training Software Engineering Agents</td>
-      <td style="white-space: nowrap;">SWE Agent</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">SWE-Gym: Training Software Engineering Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">SWE Agent</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">AgentGen: Enhancing Planning for LLM Agents</td>
-      <td style="white-space: nowrap;">LLM Agent</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">AgentGen: Enhancing Planning for LLM Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">LLM Agent</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">R2E-Gym: Procedural Environments for SWE Agents</td>
-      <td style="white-space: nowrap;">SWE Agent</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">R2E-Gym: Procedural Environments for SWE Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">SWE Agent</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">DeepSWE: RL Scaling for Coding Agents</td>
-      <td style="white-space: nowrap;">SWE Agent</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">DeepSWE: RL Scaling for Coding Agents</td>
+      <td style="white-space:nowrap; vertical-align:middle;">SWE Agent</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">RepoForge: End-to-End Data for SWE Agent Training</td>
-      <td style="white-space: nowrap;">SWE Agent</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">RepoForge: End-to-End Data for SWE Agent Training</td>
+      <td style="white-space:nowrap; vertical-align:middle;">SWE Agent</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
+
+<a id="finance"></a>
 
 ## 💰 Finance
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
 
+<a id="medical"></a>
+
 ## 🩺 Medical
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 20%;">
-    <col style="width: 15%;">
-    <col style="width: 15%;">
-    <col style="width: 20%;">
+    <col style="width:30%;">
+    <col style="width:20%;">
+    <col style="width:15%;">
+    <col style="width:15%;">
+    <col style="width:20%;">
   </colgroup>
   <thead>
     <tr>
-      <th style="white-space: normal; height: 40px; line-height: 20px;">Title</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Model</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Date</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Link</th>
-      <th style="white-space: nowrap; vertical-align: middle;">Venue</th>
+      <th style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle; text-align:left;">Title</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Model</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Date</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Link</th>
+      <th style="white-space:nowrap; vertical-align:middle; text-align:left;">Venue</th>
     </tr>
   </thead>
-  <tbody style="font-size: 13px; vertical-align: middle;">
+  <tbody style="font-size:13px; vertical-align:middle;">
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
     <tr>
-      <td style="white-space: normal; height: 40px; line-height: 20px; overflow: hidden;">TBD</td>
-      <td style="white-space: nowrap;">TBD</td>
-      <td style="white-space: nowrap;">2025</td>
-      <td style="white-space: nowrap;"><a href="#">Paper</a></td>
-      <td style="white-space: nowrap;">TBD</td>
+      <td style="white-space:normal; word-break:break-word; overflow-wrap:break-word; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
+      <td style="white-space:nowrap; vertical-align:middle;">2025</td>
+      <td style="white-space:nowrap; vertical-align:middle;"><a href="#">Paper</a></td>
+      <td style="white-space:nowrap; vertical-align:middle;">TBD</td>
     </tr>
   </tbody>
 </table>
 
 ---
+
+<a id="citation"></a>
 
 ## 📖 Citation
 If you find this repository useful, please cite our survey:
