@@ -73,11 +73,11 @@
   <img src="figures/stages.png" alt="Stages of AI for Productivity" width="95%">
 </p>
 
-> A four-stage framework for AI-driven productivity evolution:
-> - **Stage 1: AI as Conversational Assistant**: Passive, single-turn informational tool, limited to preparatory assistance, fully dependent on human execution.
-> - **Stage 2: AI as Reactive Operator**: Automates narrow, repetitive tasks, substituting manual labor but requiring constant human oversight and error correction.
-> - **Stage 3: AI as Adaptive Coordinator**: Manages complex workflows, coordinates agents, and scales team-level capability, but relies on human-defined goals and requirements.
-> - **Stage 4: AI as Self-Governing Production System**: Autonomous ecosystem that translates abstract goals into actionable plans, orchestrates multi-agent systems, and expands the production frontier, with human oversight focused on strategic alignment and safety.
+A four-stage framework for AI-driven productivity evolution:
+- **Stage 1: AI as Conversational Assistant**: Passive, single-turn informational tool, limited to preparatory assistance, fully dependent on human execution.
+- **Stage 2: AI as Reactive Operator**: Automates narrow, repetitive tasks, substituting manual labor but requiring constant human oversight and error correction.
+- **Stage 3: AI as Adaptive Coordinator**: Manages complex workflows, coordinates agents, and scales team-level capability, but relies on human-defined goals and requirements.
+- **Stage 4: AI as Self-Governing Production System**: Autonomous ecosystem that translates abstract goals into actionable plans, orchestrates multi-agent systems, and expands the production frontier, with human oversight focused on strategic alignment and safety.
 
 ---
 
