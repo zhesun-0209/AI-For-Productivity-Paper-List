@@ -23,7 +23,7 @@
 ---
 
 ## 📢 News
-- [2026/04/] 📃 We created this repo to share updates and related literature!
+- [2026/04/] 📃 We created this repository to share updates and related literature!
 - [2026/04/] 🎉 Our survey is released! See # for the paper!
 
 ---
@@ -272,7 +272,7 @@ If you find this repository useful, please cite our survey:
 
 ```bibtex
 @article{your_survey,
-  title={AI for Productivity: A Survey},
+  title={AI for Productivity Survey},
   author={},
   journal={},
   year={2026}
@@ -285,10 +285,9 @@ Contributions are welcome!
 If you would like to improve this repository, you are welcome to:
 - add missing papers,
 - revise incorrect metadata,
-- refine domain categorization,
 - update paper links and venue information.
 
-Please feel free to open an issue or submit a pull request.
+Please feel free to open an issue or submit a pull request!
 
 ### 🌟 Star History
 
