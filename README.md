@@ -427,11 +427,11 @@
 ## ⚖️ Law
 <table>
   <colgroup>
-    <col style="width: 40%">
-    <col style="width: 18%">
+    <col style="width: 42%">
+    <col style="width: 24%">
     <col style="width: 10%">
-    <col style="width: 12%">
-    <col style="width: 20%">
+    <col style="width: 10%">
+    <col style="width: 14%">
   </colgroup>
   <thead>
     <tr>
@@ -444,81 +444,81 @@
   </thead>
   <tbody>
     <tr>
-      <td>LawGPT</td>
-      <td>Legal LLM</td>
-      <td>2024</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model</td>
+      <td>LawGPT (Zhou et al., 2024b)</td>
+      <td>2024-06</td>
+      <td><a href="https://arxiv.org/abs/2406.04614">Paper</a></td>
+      <td>arXiv</td>
     </tr>
     <tr>
-      <td>Lawyer LLaMA</td>
-      <td>Legal LLM</td>
-      <td>2023</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>Lawyer LLaMA Technical Report</td>
+      <td>Lawyer LLaMA (Huang et al., 2023)</td>
+      <td>2023-05</td>
+      <td><a href="https://arxiv.org/abs/2305.15062">Paper</a></td>
+      <td>arXiv</td>
     </tr>
     <tr>
-      <td>InterLM-Law</td>
-      <td>Legal LLM</td>
-      <td>2025</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>InternLM-Law: An Open-Sourced Chinese Legal Large Language Model</td>
+      <td>InternLM-Law (Fei et al., 2025)</td>
+      <td>2025-01</td>
+      <td><a href="https://aclanthology.org/2025.coling-main.629/">Paper</a></td>
+      <td>COLING 2025</td>
     </tr>
     <tr>
-      <td>Disc-LawLLM</td>
-      <td>Legal LLM + Retrieval</td>
-      <td>2023</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services</td>
+      <td>Disc-LawLLM (Yue et al., 2023)</td>
+      <td>2023-09</td>
+      <td><a href="https://arxiv.org/abs/2309.11325">Paper</a></td>
+      <td>arXiv</td>
     </tr>
     <tr>
-      <td>SaulLM</td>
-      <td>Legal LLM</td>
-      <td>2024</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>SaulLM-7B: A pioneering Large Language Model for Law</td>
+      <td>SaulLM (Colombo et al., 2024)</td>
+      <td>2024-03</td>
+      <td><a href="https://arxiv.org/abs/2403.03883">Paper</a></td>
+      <td>arXiv</td>
     </tr>
     <tr>
-      <td>ChatLaw</td>
-      <td>MoE + Multi-Agent + KG</td>
-      <td>2023</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model</td>
+      <td>ChatLaw (Cui et al., 2023)</td>
+      <td>2023-06</td>
+      <td><a href="https://arxiv.org/abs/2306.16092">Paper</a></td>
+      <td>arXiv</td>
     </tr>
     <tr>
-      <td>L-MARS</td>
-      <td>Multi-Agent LLM</td>
-      <td>2025</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search</td>
+      <td>L-MARS (Wang and Yuan, 2025)</td>
+      <td>2025-08</td>
+      <td><a href="https://arxiv.org/abs/2509.00761">Paper</a></td>
+      <td>arXiv</td>
     </tr>
     <tr>
-      <td>PAKTON</td>
-      <td>Multi-Agent LLM + RAG</td>
-      <td>2025</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>PAKTON: A Multi-Agent Framework for Question Answering in Long Legal Agreements</td>
+      <td>PAKTON (Raptopoulos et al., 2025)</td>
+      <td>2025-11</td>
+      <td><a href="https://aclanthology.org/2025.emnlp-main.403/">Paper</a></td>
+      <td>EMNLP 2025</td>
     </tr>
     <tr>
-      <td>AgentCourt</td>
-      <td>Multi-Agent LLM + Retrieval</td>
-      <td>2024</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation</td>
+      <td>AgentCourt (He et al., 2024b)</td>
+      <td>2024-11</td>
+      <td><a href="https://aclanthology.org/2024.findings-emnlp.549/">Paper</a></td>
+      <td>Findings of EMNLP 2024</td>
     </tr>
     <tr>
-      <td>LAW</td>
-      <td>Multi-Agent LLM + Tools</td>
-      <td>2025</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>LAW: Legal Agentic Workflows for Custody and Fund Services Contracts</td>
+      <td>LAW (Watson et al., 2025)</td>
+      <td>2025-01</td>
+      <td><a href="https://aclanthology.org/2025.coling-industry.50/">Paper</a></td>
+      <td>COLING 2025 Industry Track</td>
     </tr>
     <tr>
-      <td>Law in Silico</td>
-      <td>Agent-based Simulation</td>
-      <td>2025</td>
-      <td><a href="#">Paper</a></td>
-      <td>TBD</td>
+      <td>Law in Silico: Simulating Legal Society with LLM-Based Agents</td>
+      <td>Law in Silico (Wang et al., 2025d)</td>
+      <td>2025-10</td>
+      <td><a href="https://arxiv.org/abs/2510.24442">Paper</a></td>
+      <td>arXiv</td>
     </tr>
   </tbody>
 </table>
