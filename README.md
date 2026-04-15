@@ -134,7 +134,7 @@ In this phase, AI penetration remains limited, with applications focused on effi
 | [Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents](https://arxiv.org/abs/2404.16698) | TBD | 04/2024 | arXiv |
 | [Generative Agent Simulations of 1,000 People](https://arxiv.org/abs/2411.10109) | TBD | 11/2024 | arXiv |
 | [GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance](https://arxiv.org/abs/2510.26309) | GraphCompliance | 10/2025 | arXiv |
-| [PrivComp-KG: Leveraging KG and LLM for Compliance Verification](https://www.computer.org/csdl/proceedings-article/tps-isa/2024/867400a097/23ylKXuJqz6) | PrivComp-KG | 2024 | TPS-ISA 2024 |
+| [PrivComp-KG: Leveraging KG and LLM for Compliance Verification](https://www.computer.org/csdl/proceedings-article/tps-isa/2024/867400a097/23ylKXuJqz6) | PrivComp-KG | 10/2024 | TPS-ISA 2024 |
 | [LLM Based Multi-Agent Generation of Semi-structured Documents from Semantic Templates in the Public Administration Domain](https://arxiv.org/abs/2402.14871) | TBD | 02/2024 | HCII 2024 |
 | [Agents4Gov: Privacy-Preserving Web Agents Using Open LLMs for Public Sector Tasks](https://sol.sbc.org.br/index.php/eniac/article/view/38751) | Agents4Gov | 09/2025 | ENIAC 2025 |
 
@@ -171,20 +171,20 @@ In this phase, AI achieves deeper penetration, delivering dual-mechanism gains: 
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [SANCTUARY: Evidence-based Automated Fact Checking](#) | TBD | 2025 | TBD |
-| [ScoreRAG: Consistency-Relevance Scoring for News Generation](#) | TBD | 2025 | TBD |
-| [Journalism-Guided Agentic In-Context Learning for News Stance Detection](#) | TBD | 2025 | TBD |
-| [Toward Verifiable Misinformation Detection](#) | TBD | 2025 | TBD |
-| [OpenFactCheck: Factuality Evaluation of LLMs](#) | TBD | 2024 | TBD |
-| [EditDuet: Multi-Agent Video Non-Linear Editing](#) | TBD | 2025 | TBD |
-| [JRE-L: Journalist, Reader, Editor LLMs for Science Journalism](#) | TBD | 2025 | TBD |
-| [Can Memory-Augmented LLM Agents Aid Journalism](#) | TBD | 2025 | TBD |
-| [MACRec: Multi-Agent Collaboration for Recommendation](#) | TBD | 2024 | TBD |
-| [On Generative Agents in Recommendation](#) | TBD | 2024 | TBD |
-| [FilmAgent: End-to-End Film Automation in Virtual 3D Spaces](#) | TBD | 2025 | TBD |
-| [Kubrick: Multimodal Agent Collaborations for Synthetic Video](#) | TBD | 2025 | TBD |
-| [Automated Movie Generation via Multi-Agent CoT Planning](#) | TBD | 2025 | TBD |
-| [AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition](#) | TBD | 2025 | TBD |
+| [SANCTUARY: Evidence-based Automated Fact Checking](https://aclanthology.org/2025.fever-1.19/) | SANCTUARY | 07/2025 | FEVER 2025 |
+| [ScoreRAG: Consistency-Relevance Scoring for News Generation](https://arxiv.org/abs/2506.03704) | ScoreRAG | 06/2025 | arXiv |
+| [Journalism-Guided Agentic In-Context Learning for News Stance Detection](https://aclanthology.org/2025.emnlp-main.778/) | TBD | 11/2025 | EMNLP 2025 |
+| [Toward Verifiable Misinformation Detection](https://dl.acm.org/doi/10.1145/3766918.3766948) | TBD | 10/2025 | GAIB 2025 |
+| [OpenFactCheck: Factuality Evaluation of LLMs](https://aclanthology.org/2025.coling-main.755/) | OpenFactCheck | 01/2025 | COLING 2025 |
+| [EditDuet: Multi-Agent Video Non-Linear Editing](https://arxiv.org/abs/2509.10761) | EditDuet | 09/2025 | arXiv |
+| [JRE-L: Journalist, Reader, Editor LLMs for Science Journalism](https://aclanthology.org/2025.naacl-long.335/) | JRE-L | 04/2025 | NAACL 2025 |
+| [Can Memory-Augmented LLM Agents Aid Journalism](https://arxiv.org/abs/2507.21055) | TBD | 07/2025 | arXiv |
+| [MACRec: Multi-Agent Collaboration for Recommendation](https://dl.acm.org/doi/10.1145/3626772.3657669) | MACRec | 07/2024 | SIGIR 2024 |
+| [On Generative Agents in Recommendation](https://dl.acm.org/doi/10.1145/3626772.3657844) | TBD | 07/2024 | SIGIR 2024 |
+| [FilmAgent: End-to-End Film Automation in Virtual 3D Spaces](https://arxiv.org/abs/2501.12909) | FilmAgent | 01/2025 | arXiv |
+| [Kubrick: Multimodal Agent Collaborations for Synthetic Video](https://arxiv.org/abs/2408.10453) | Kubrick | 08/2024 | CVPR 2025 AI4CC Workshop |
+| [Automated Movie Generation via Multi-Agent CoT Planning](https://arxiv.org/abs/2503.07314) | TBD | 03/2025 | arXiv |
+| [AutoDirector: Online Auto-scheduling Agents for Multi-sensory Composition](https://arxiv.org/abs/2408.11564) | AutoDirector | 08/2024 | VISAPP 2025 |
 
 <a id="education"></a>
 
