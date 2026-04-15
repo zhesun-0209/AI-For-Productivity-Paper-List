@@ -236,7 +236,7 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://openreview.net/forum?id=UnUwSIgK5W) | WizardCoder | 01/2024 | ICLR 2024 |
+| [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://openreview.net/forum?id=UnUwSIgK5W) | WizardCoder | 06/2023 | ICLR 2024 |
 | [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://openreview.net/forum?id=WaGvb7OzySA) | CodeRL | 11/2022 | NeurIPS 2022 |
 | [Execution-based Code Generation using Deep Reinforcement Learning](https://openreview.net/forum?id=0XBuaxqEcG) | PPOCoder | 01/2023 | TMLR 2023 |
 | [StepCoder: Improving Code Generation with Reinforcement Learning from Compiler Feedback](https://aclanthology.org/2024.acl-long.251/) | StepCoder | 08/2024 | ACL 2024 |
@@ -247,8 +247,8 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 | [ChatDev: Communicative Agents for Software Development](https://aclanthology.org/2024.acl-long.810/) | ChatDev | 08/2024 | ACL 2024 |
 | [MapCoder: Multi-Agent Code Generation for Competitive Problem Solving](https://aclanthology.org/2024.acl-long.269/) | MapCoder | 08/2024 | ACL 2024 |
 | [CodePlan: Unlocking Reasoning Potential in Large Language Models by Scaling Code-form Planning](https://openreview.net/forum?id=dCPF1wlqj8) | CodePlan | 04/2025 | ICLR 2025 |
-| [Training Software Engineering Agents and Verifiers with SWE-Gym](https://arxiv.org/abs/2412.21139) | SWE-Gym | 07/2025 | ICML 2025 |
-| [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) | AgentGen | 08/2025 | KDD 2025 |
+| [Training Software Engineering Agents and Verifiers with SWE-Gym](https://arxiv.org/abs/2412.21139) | SWE-Gym | 03/2025 | ICML 2025 |
+| [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) | AgentGen | 08/2024 | arXiv |
 | [R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents](https://arxiv.org/abs/2504.07164) | R2E-Gym | 04/2025 | arXiv |
 | [DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL](https://www.together.ai/blog/deepswe) | DeepSWE | 07/2025 | Together AI Blog |
 | [RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](https://arxiv.org/abs/2508.01550) | RepoForge | 08/2025 | arXiv |
