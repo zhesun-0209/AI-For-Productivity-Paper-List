@@ -120,10 +120,12 @@ In this phase, AI penetration remains limited, with applications focused on effi
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [Utilizing Large Language Models for Information Extraction from Real Estate Transactions](#) | TBD | 2024 | TBD |
-| [Real Estate Attribute Value Extraction Using Large Language Models](#) | TBD | 2024 | TBD |
-| [AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting](#) | TBD | 2024 | TBD |
-| [On the Performance of Large Language Models for Real Estate Appraisal](#) | TBD | 2024 | TBD |
+| [Utilizing Large Language Models for Information Extraction from Real Estate Transactions](https://arxiv.org/abs/2404.18043) | TBD | 04/2024 | arXiv |
+| [Real Estate Attribute Value Extraction Using Large Language Models](https://doaj.org/article/a386687d2d45489c8fb75e474b65af18) | TBD | 01/2025 | IEEE Access |
+| [AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting](https://arxiv.org/abs/2502.16810) | AI Realtor
+ | 02/2025 | arXiv |
+| [On the Performance of Large Language Models for Real Estate Appraisal](https://arxiv.org/abs/2506.11812) | TBD | 06/2025 | ECML-PKDD 2025
+ |
 
 <a id="government-and-public-administration"></a>
 
