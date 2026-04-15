@@ -134,9 +134,9 @@ In this phase, AI penetration remains limited, with applications focused on effi
 | [Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents](https://arxiv.org/abs/2404.16698) | TBD | 04/2024 | arXiv |
 | [Generative Agent Simulations of 1,000 People](https://arxiv.org/abs/2411.10109) | TBD | 11/2024 | arXiv |
 | [GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance](https://arxiv.org/abs/2510.26309) | GraphCompliance | 10/2025 | arXiv |
-| [PrivComp-KG: Leveraging KG and LLM for Compliance Verification](https://ieeexplore.ieee.org/document/10686740) | PrivComp-KG | 2024 | TPS-ISA 2024 |
-| [LLM Based Multi-Agent Generation of Semi-structured Documents from Semantic Templates in the Public Administration Domain](https://arxiv.org/abs/2402.14871) | TBD | 02/2024 | arXiv |
-| [Agents4Gov: Privacy-Preserving Web Agents Using Open LLMs for Public Sector Tasks](https://sol.sbc.org.br/index.php/eniac/article/view/38751) | Agents4Gov | 2025 | ENIAC 2025 |
+| [PrivComp-KG: Leveraging KG and LLM for Compliance Verification](https://www.computer.org/csdl/proceedings-article/tps-isa/2024/867400a097/23ylKXuJqz6) | PrivComp-KG | 2024 | TPS-ISA 2024 |
+| [LLM Based Multi-Agent Generation of Semi-structured Documents from Semantic Templates in the Public Administration Domain](https://arxiv.org/abs/2402.14871) | TBD | 02/2024 | HCII 2024 |
+| [Agents4Gov: Privacy-Preserving Web Agents Using Open LLMs for Public Sector Tasks](https://sol.sbc.org.br/index.php/eniac/article/view/38751) | Agents4Gov | 09/2025 | ENIAC 2025 |
 
 ---
 
