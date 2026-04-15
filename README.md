@@ -122,7 +122,7 @@ In this phase, AI penetration remains limited, with applications focused on effi
 | ----- | ----- | ---- | ----- |
 | [Utilizing Large Language Models for Information Extraction from Real Estate Transactions](https://arxiv.org/abs/2404.18043) | TBD | 04/2024 | arXiv |
 | [Real Estate Attribute Value Extraction Using Large Language Models](https://doaj.org/article/a386687d2d45489c8fb75e474b65af18) | TBD | 01/2025 | IEEE Access |
-| [AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting](https://arxiv.org/abs/2502.16810) | AI&nbspRealtor | 02/2025 | arXiv |
+| [AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting](https://arxiv.org/abs/2502.16810) | AI&nbsp;Realtor | 02/2025 | arXiv |
 | [On the Performance of Large Language Models for Real Estate Appraisal](https://arxiv.org/abs/2506.11812) | TBD | 06/2025 | ECML-PKDD 2025 |
 
 <a id="government-and-public-administration"></a>
@@ -240,7 +240,7 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 | [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://openreview.net/forum?id=WaGvb7OzySA) | CodeRL | 11/2022 | NeurIPS 2022 |
 | [Execution-based Code Generation using Deep Reinforcement Learning](https://openreview.net/forum?id=0XBuaxqEcG) | PPOCoder | 01/2023 | TMLR 2023 |
 | [StepCoder: Improving Code Generation with Reinforcement Learning from Compiler Feedback](https://aclanthology.org/2024.acl-long.251/) | StepCoder | 08/2024 | ACL 2024 |
-| [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/abs/2406.11931) | DeepSeek&#8209Coder&#8209V2 | 06/2024 | arXiv |
+| [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/abs/2406.11931) | DeepSeek&#8209;Coder&#8209;V2 | 06/2024 | arXiv |
 | [Teaching Large Language Models to Self-Debug](https://openreview.net/forum?id=KuPixIqPiq) | Self-Debug | 01/2024 | ICLR 2024 |
 | [Revisit Self-Debugging with Self-Generated Tests for Code Generation](https://aclanthology.org/2025.acl-long.881/) | TBD | 07/2025 | ACL 2025 |
 | [Large Language Model Guided Self-Debugging Code Generation](https://arxiv.org/abs/2502.02928) | TBD | 02/2025 | arXiv |
