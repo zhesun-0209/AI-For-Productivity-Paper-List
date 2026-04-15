@@ -236,26 +236,22 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [DeepSeek-Coder-V2](#) | TBD | 2024 | TBD |
-| [WizardCoder: Evol-Instruct for Code LLMs](#) | TBD | 2023 | TBD |
-| [CodeRL: Pretraining + RL for Code Generation](#) | TBD | 2022 | TBD |
-| [PPOCoder: Execution-based Code Generation](#) | TBD | 2024 | TBD |
-| [StepCoder: RL from Compiler Feedback](#) | TBD | 2024 | TBD |
-| [CodeRL+: Execution Semantics Alignment](#) | TBD | 2025 | TBD |
-| [Process-Supervised RL for Code Generation](#) | TBD | 2025 | TBD |
-| [Teaching LLMs to Self-Debug](#) | TBD | 2024 | TBD |
-| [Revisit Self-Debugging with Self-Generated Tests](#) | TBD | 2025 | TBD |
-| [PyCapsule: LLM Guided Self-Debugging](#) | TBD | 2025 | TBD |
-| [ChatDev: Communicative Agents for Software Development](#) | TBD | 2024 | TBD |
-| [MetaGPT: Multi-Agent Collaborative Programming](#) | TBD | 2024 | TBD |
-| [MapCoder: Multi-Agent Code for Competitive Problems](#) | TBD | 2024 | TBD |
-| [MapCoder-Lite: Multi-Agent in Small LLM](#) | TBD | 2025 | TBD |
-| [CodePlan: Repository-level Coding and Planning](#) | TBD | 2025 | TBD |
-| [SWE-Gym: Training Software Engineering Agents](#) | TBD | 2025 | TBD |
-| [AgentGen: Enhancing Planning for LLM Agents](#) | TBD | 2025 | TBD |
-| [R2E-Gym: Procedural Environments for SWE Agents](#) | TBD | 2025 | TBD |
-| [DeepSWE: RL Scaling for Coding Agents](#) | TBD | 2025 | TBD |
-| [RepoForge: End-to-End Data for SWE Agent Training](#) | TBD | 2025 | TBD |
+| [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://openreview.net/forum?id=UnUwSIgK5W) | WizardCoder | 01/2024 | ICLR 2024 |
+| [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://openreview.net/forum?id=WaGvb7OzySA) | CodeRL | 11/2022 | NeurIPS 2022 |
+| [Execution-based Code Generation using Deep Reinforcement Learning](https://openreview.net/forum?id=0XBuaxqEcG) | PPOCoder | 01/2023 | TMLR 2023 |
+| [StepCoder: Improving Code Generation with Reinforcement Learning from Compiler Feedback](https://aclanthology.org/2024.acl-long.251/) | StepCoder | 08/2024 | ACL 2024 |
+| [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/abs/2406.11931) | DeepSeek-Coder-V2 | 06/2024 | arXiv |
+| [Teaching Large Language Models to Self-Debug](https://openreview.net/forum?id=KuPixIqPiq) | Self-Debug | 01/2024 | ICLR 2024 |
+| [Revisit Self-Debugging with Self-Generated Tests for Code Generation](https://aclanthology.org/2025.acl-long.881/) | TBD | 07/2025 | ACL 2025 |
+| [Large Language Model Guided Self-Debugging Code Generation](https://arxiv.org/abs/2502.02928) | TBD | 02/2025 | arXiv |
+| [ChatDev: Communicative Agents for Software Development](https://aclanthology.org/2024.acl-long.810/) | ChatDev | 08/2024 | ACL 2024 |
+| [MapCoder: Multi-Agent Code Generation for Competitive Problem Solving](https://aclanthology.org/2024.acl-long.269/) | MapCoder | 08/2024 | ACL 2024 |
+| [CodePlan: Unlocking Reasoning Potential in Large Language Models by Scaling Code-form Planning](https://openreview.net/forum?id=dCPF1wlqj8) | CodePlan | 04/2025 | ICLR 2025 |
+| [Training Software Engineering Agents and Verifiers with SWE-Gym](https://arxiv.org/abs/2412.21139) | SWE-Gym | 07/2025 | ICML 2025 |
+| [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) | AgentGen | 08/2025 | KDD 2025 |
+| [R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents](https://arxiv.org/abs/2504.07164) | R2E-Gym | 04/2025 | arXiv |
+| [DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL](https://www.together.ai/blog/deepswe) | DeepSWE | 07/2025 | Together AI Blog |
+| [RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](https://arxiv.org/abs/2508.01550) | RepoForge | 08/2025 | arXiv |
 
 <a id="finance"></a>
 
