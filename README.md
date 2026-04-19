@@ -111,8 +111,12 @@ In this phase, AI penetration remains limited, with applications focused on effi
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [AgroLLM](#) | LLM + RAG | 2025 | TBD |
-| [TBD](#) | TBD | 2025 | TBD |
+| [AgroLLM: Connecting Farmers and Agricultural Practices through Large Language Models for Enhanced Knowledge Transfer and Practical Application](https://arxiv.org/abs/2503.04788) | AgroLLM | 03/2025 | arXiv |
+| [ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources](https://link.springer.com/chapter/10.1007/978-981-96-0573-6_21) | ShizishanGPT | 12/2024 | WISE 2024 |
+| [Agri-LLaVA: Knowledge-Infused Large Multimodal Assistant on Agricultural Pests and Diseases](https://arxiv.org/abs/2412.02158) | Agri-LLaVA | 12/2024 | arXiv |
+| [IPM-AgriGPT: A Large Language Model for Pest and Disease Management with a G-EA Framework and Agricultural Contextual Reasoning](https://www.mdpi.com/2227-7390/13/4/566) | IPM-AgriGPT | 02/2025 | Mathematics |
+| [CottonBot: An AI-driven cotton farming assistant and irrigation advisor using LLM-RAG and agentic AI tools](https://doi.org/10.1016/j.atech.2025.101640) | CottonBot | 12/2025 | Smart Agricultural Technology |
+| [AgriAgent: Contract-Driven Planning and Capability-Aware Tool Orchestration in Real-World Agriculture](https://arxiv.org/abs/2601.08308) | AgriAgent | 01/2026 | arXiv |
 
 <a id="real-estate"></a>
 
