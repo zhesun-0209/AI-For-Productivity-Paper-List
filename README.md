@@ -279,7 +279,7 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 | [FinSight: Towards Real-World Financial Deep Research](https://arxiv.org/abs/2510.16844) | FinSight | 10/2025 | arXiv |
 | [RiskLabs: Predicting Financial Risk Using Large Language Model Based on Multi-Sources Data](https://arxiv.org/abs/2404.07452) | RiskLabs | 04/2024 | arXiv |
 | [Credit Risk Meets Large Language Models: Building a Risk Indicator from Loan Descriptions in P2P Lending](https://journal.iberamia.org/index.php/intartif/article/view/1890/248) | TBD | 03/2025 | Inteligencia Artificial |
-| [MMLM-CA: A Multimodal Large Language Model Framework for Automated Insurance Claims Adjudication Integrating Policy Document Understanding and Visual Damage Assessment](https://www.researchgate.net/publication/359942838_A_multi-input_multi-label_claims_channeling_system_using_insurance-based_language_models) | MMLM-CA | 03/2026 | AISNS 2025 |
+| [MMLM-CA: A Multimodal Large Language Model Framework for Automated Insurance Claims Adjudication Integrating Policy Document Understanding and Visual Damage Assessment](https://www.researchgate.net/publication/402558582_MMLM-CA_A_Multimodal_Large_Language_Model_Framework_for_Automated_Insurance_Claims_Adjudication_Integrating_Policy_Document_Understanding_and_Visual_Damage_Assessment) | MMLM-CA | 03/2026 | AISNS 2025 |
 
 <a id="medical"></a>
 
