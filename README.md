@@ -269,7 +269,7 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [Human-AI Interactive Alpha Mining for Quantitative Investment](https://arxiv.org/abs/2308.00016) | Alpha-GPT | 08/2023 | arXiv |
+| [Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment](https://arxiv.org/abs/2308.00016) | Alpha-GPT | 08/2023 | arXiv |
 | [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](https://arxiv.org/abs/2503.16252) | Fin-R1 | 03/2025 | arXiv |
 | [DianJin-R1: Evaluating and Enhancing Financial Reasoning in Large Language Models](https://arxiv.org/abs/2504.15716) | DianJin-R1 | 04/2025 | arXiv |
 | [FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models](https://arxiv.org/abs/2405.14767) | FinRobot | 05/2024 | arXiv |
