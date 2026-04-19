@@ -196,8 +196,14 @@ In this phase, AI achieves deeper penetration, delivering dual-mechanism gains: 
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [TBD](#) | TBD | 2025 | TBD |
-| [TBD](#) | TBD | 2025 | TBD |
+| [EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education](https://arxiv.org/abs/2308.02773) | EduChat | 08/2023 | arXiv |
+| [LearnLM: Improving Gemini for Learning](https://arxiv.org/abs/2412.16429) | LearnLM | 12/2024 | arXiv |
+| [Pedagogy-R1: Pedagogically-Aligned Reasoning Model with Balanced Educational Benchmark](https://arxiv.org/abs/2505.18467) | Pedagogy-R1 | 05/2025 | arXiv |
+| [SocraticLM: Exploring Socratic Personalized Teaching with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9bae399d1f34b8650351c1bd3692aeae-Abstract-Conference.html) | SocraticLM | 12/2024 | NeurIPS 2024 |
+| [LLM-based Automated Grading with Human-in-the-Loop](https://arxiv.org/abs/2504.05239) | TBD | 04/2025 | arXiv |
+| [Using Generative AI and Multi-Agents to Provide Automatic Feedback](https://arxiv.org/abs/2411.07407) | AutoFeedback | 11/2024 | arXiv |
+| [Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems](https://ojs.aaai.org/index.php/AAAI/article/view/34565) | Agent4Edu | 01/2025 | AAAI 2025 |
+| [Classroom Simulacra: Building Contextual Student Generative Agents in Online Education for Learning Behavioral Simulation](https://dl.acm.org/doi/10.1145/3706598.3713773) | Classroom Simulacra | 04/2025 | CHI 2025 |
 
 <a id="law"></a>
 
