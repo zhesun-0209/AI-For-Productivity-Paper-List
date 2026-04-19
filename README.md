@@ -203,7 +203,7 @@ In this phase, AI achieves deeper penetration, delivering dual-mechanism gains: 
 | [LLM-based Automated Grading with Human-in-the-Loop](https://arxiv.org/abs/2504.05239) | TBD | 04/2025 | arXiv |
 | [Using Generative AI and Multi-Agents to Provide Automatic Feedback](https://arxiv.org/abs/2411.07407) | AutoFeedback | 11/2024 | arXiv |
 | [Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems](https://ojs.aaai.org/index.php/AAAI/article/view/34565) | Agent4Edu | 01/2025 | AAAI 2025 |
-| [Classroom Simulacra: Building Contextual Student Generative Agents in Online Education for Learning Behavioral Simulation](https://dl.acm.org/doi/10.1145/3706598.3713773) | Classroom Simulacra | 04/2025 | CHI 2025 |
+| [Classroom Simulacra: Building Contextual Student Generative Agents in Online Education for Learning Behavioral Simulation](https://dl.acm.org/doi/10.1145/3706598.3713773) | Classroom&nbsp;Simulacra | 04/2025 | CHI 2025 |
 
 <a id="law"></a>
 
@@ -269,8 +269,17 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [TBD](#) | TBD | 2025 | TBD |
-| [TBD](#) | TBD | 2025 | TBD |
+| [Human-AI Interactive Alpha Mining for Quantitative Investment](https://arxiv.org/abs/2308.00016) | Alpha-GPT | 08/2023 | arXiv |
+| [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](https://arxiv.org/abs/2503.16252) | Fin-R1 | 03/2025 | arXiv |
+| [DianJin-R1: Evaluating and Enhancing Financial Reasoning in Large Language Models](https://arxiv.org/abs/2504.15716) | DianJin-R1 | 04/2025 | arXiv |
+| [FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models](https://arxiv.org/abs/2405.14767) | FinRobot | 05/2024 | arXiv |
+| [A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist](https://arxiv.org/abs/2402.18485) | FinAgent | 02/2024 | arXiv |
+| [TradingAgents: Multi-Agents LLM Financial Trading Framework](https://arxiv.org/abs/2412.20138) | TradingAgents | 12/2024 | arXiv |
+| [FinDebate: Multi-Agent Collaborative Intelligence for Financial Analysis](https://arxiv.org/abs/2509.17395) | FinDebate | 09/2025 | arXiv |
+| [FinSight: Towards Real-World Financial Deep Research](https://arxiv.org/abs/2510.16844) | FinSight | 10/2025 | arXiv |
+| [RiskLabs: Predicting Financial Risk Using Large Language Model Based on Multi-Sources Data](https://arxiv.org/abs/2404.07452) | RiskLabs | 04/2024 | arXiv |
+| [Credit Risk Meets Large Language Models: Building a Risk Indicator from Loan Descriptions in P2P Lending](https://journal.iberamia.org/index.php/intartif/article/view/1890/248) | TBD | 03/2025 | Inteligencia Artificial |
+| [MMLM-CA: A Multimodal Large Language Model Framework for Automated Insurance Claims Adjudication Integrating Policy Document Understanding and Visual Damage Assessment](https://www.researchgate.net/publication/359942838_A_multi-input_multi-label_claims_channeling_system_using_insurance-based_language_models) | MMLM-CA | 03/2026 | AISNS 2025 |
 
 <a id="medical"></a>
 
