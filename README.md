@@ -98,12 +98,14 @@ In this phase, AI penetration remains limited, with applications focused on effi
 
 <a id="manufacturing"></a>
 
+<a id="manufacturing"></a>
+
 ## 🏭 Manufacturing
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [TBD](#) | TBD | 2025 | TBD |
-| [TBD](#) | TBD | 2025 | TBD |
+| [PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization](https://arxiv.org/abs/2011.08785) | PaDiM | 11/2020 | arXiv |
+| [Towards Total Recall in Industrial Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf) | PatchCore | 06/2022 | CVPR 2022 |
 
 <a id="agriculture"></a>
 
