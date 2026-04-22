@@ -168,8 +168,14 @@ In this phase, AI achieves deeper penetration, delivering dual-mechanism gains: 
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [TBD](#) | TBD | 2025 | TBD |
-| [TBD](#) | TBD | 2025 | TBD |
+| [Invoice data extraction – Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/invoice?view=doc-intel-4.0.0) | Microsoft Document Intelligence | 2025 | Microsoft Learn |
+| [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) | LayoutLMv2 | 12/2020 | arXiv |
+| [Leveraging AI for Customs classification purposes](https://mag.wcoomd.org/magazine/wco-news-102-issue-3-2023/leveraging-ai-for-customs-classification-purposes/) | TBD | 2023 | WCO News |
+| [Customs – Mely.ai Solutions](https://mely.ai/solutions/customs/) | Mely.ai | 2025 | Mely.ai |
+| [Transform Supply Chain Logistics with Agentic AI](https://aws.amazon.com/blogs/industries/transform-supply-chain-logistics-with-agentic-ai/) | AWS | 10/2025 | AWS Industries Blog |
+| [Generative Artificial Intelligence for Compliance Risk Analysis: Applications in Tax and Customs Administration](https://www.imf.org/en/publications/tnm/issues/2025/08/09/generative-artificial-intelligence-for-compliance-risk-analysis-applications-in-tax-and-567429) | TBD | 08/2025 | IMF Technical Notes and Manuals |
+| [Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents](https://arxiv.org/abs/2502.15840) | Vending-Bench | 02/2025 | arXiv |
+| [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1) | Project Vend | 06/2025 | Anthropic |
 
 <a id="media"></a>
 
