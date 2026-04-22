@@ -295,8 +295,22 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 
 | Title | Model | Date | Venue |
 | ----- | ----- | ---- | ----- |
-| [TBD](#) | TBD | 2025 | TBD |
-| [TBD](#) | TBD | 2025 | TBD |
+| [PMC-LLaMA: Towards Building Open-source Language Models for Medicine](https://arxiv.org/abs/2304.14454) | PMC-LLaMA | 04/2023 | arXiv |
+| [PanGu Drug Model: learn a molecule like a human](https://link.springer.com/article/10.1007/s11427-022-2239-y) | PanGu Drug Model | 04/2023 | Science China Life Sciences |
+| [Huatuo-26M, a Large-scale Chinese Medical QA Dataset](https://arxiv.org/abs/2305.01526) | Huatuo-26M | 05/2023 | arXiv |
+| [Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Trustworthy Response Generation in Chinese](https://dl.acm.org/doi/10.1145/3686807) | BenTsao | 07/2024 | ACM TKDD |
+| [ClinicalGPT-R1: Pushing reasoning capability of generalist disease diagnosis with large language model](https://arxiv.org/abs/2504.09421) | ClinicalGPT-R1 | 04/2025 | arXiv |
+| [HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925) | HuatuoGPT-o1 | 12/2024 | arXiv |
+| [Constitutional AI: Harmlessness from AI Feedback](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback) | Constitutional-AI-inspired alignment | 12/2022 | Anthropic |
+| [Introducing MedLM for the healthcare industry](https://cloud.google.com/blog/topics/healthcare-life-sciences/introducing-medlm-for-the-healthcare-industry) | Google MedLM | 12/2023 | Google Cloud Blog |
+| [Meet Microsoft Dragon Copilot: Your new AI assistant for clinical workflow](https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2025/03/03/meet-microsoft-dragon-copilot-your-new-ai-assistant-for-clinical-workflow/) | Microsoft Dragon Copilot | 03/2025 | Microsoft |
+| [AWS HealthScribe is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-healthscribe-generally-available/) | AWS HealthScribe | 11/2023 | AWS |
+| [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957) | Agent Hospital | 05/2024 | arXiv |
+| [The Application of MATEC (Multi-AI Agent Team Care) Framework in Sepsis Care](https://arxiv.org/abs/2503.16433) | MATEC | 03/2025 | arXiv |
+| [MedAgent-Pro: Towards Multi-modal Evidence-based Medical Diagnosis via Reasoning Agentic Workflow](https://arxiv.org/abs/2503.18968) | MedAgent-Pro | 03/2025 | arXiv |
+| [Prompt-to-Pill: Multi-Agent Drug Discovery and Clinical Simulation Pipeline](https://academic.oup.com/bioinformaticsadvances/article/6/1/vbaf323/8403080) | Prompt-to-Pill | 03/2026 | Bioinformatics Advances |
+| [The Virtual Biotech: A Multi-Agent AI Framework for Therapeutic Discovery and Development](https://www.biorxiv.org/content/10.64898/2026.02.23.707551v1) | Virtual laboratory platforms | 02/2026 | bioRxiv |
+| [Introducing ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/) | ChatGPT Health | 01/2026 | OpenAI |
 
 ---
 
